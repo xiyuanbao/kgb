@@ -21,7 +21,7 @@ all_day: false
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: []
+tags: [HeFESTo]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -59,6 +59,6 @@ projects:
 math: true
 ---
 
-Link on [CIG](https://geodynamics.org/cig/events/calendar/cig-webinar-aspect-bertelloni/)
+Timezone: PDT
 
 {{< youtube 44Jams9XKH8 >}}
