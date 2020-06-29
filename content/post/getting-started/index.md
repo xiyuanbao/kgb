@@ -4,7 +4,6 @@ subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: Create a beautifully simple website in under 10 minutes.
 authors:
 - admin
-- 吳恩達
 tags:
 - Academic
 - 开源
