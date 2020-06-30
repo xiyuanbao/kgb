@@ -6,7 +6,7 @@
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 91  # Order that this section will appear.
 
 title = "Outreach"
 subtitle = "[Other outreach events >>](tag/outreach)"
@@ -17,7 +17,7 @@ subtitle = "[Other outreach events >>](tag/outreach)"
   page_type = "post"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 1
+  count = 2
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
