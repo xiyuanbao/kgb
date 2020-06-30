@@ -55,6 +55,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3693-932X
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "xding.geo@gmail.com"
