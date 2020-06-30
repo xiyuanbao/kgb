@@ -10,3 +10,11 @@ subtitle = ""
 +++
 
 {{< gallery >}}
+
+<p> </p>
+
+{{< video library="1" src="video_gallery/VID_20190812_113819.mp4" controls="yes" >}}
+
+<p> </p>
+
+{{< video library="1" src="video_gallery/PRJ-EQ.mp4" controls="yes" width="100">}}

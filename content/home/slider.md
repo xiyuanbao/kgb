@@ -26,10 +26,12 @@ height = "500px"
   #overlay_color = "#666"  # An HTML color value.
   overlay_img = "kgb_slide.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  cta_label = "gallery"
+  cta_url = "/kgb/#gallery"
 
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_icon_pack = "fas"
+  cta_icon = "camera"
+
 
 
 [[item]]

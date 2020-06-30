@@ -18,20 +18,17 @@ organizations:
   url: "https://epss.ucla.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mantle dynamics and thermodynamics.
+bio: My research interests include lithospheric structure and mantle dynamics.
 
 interests:
 - Mantle Dynamics
-- Thermodynamics of Mantle Minerals
+- Lithospheric Structure
 
 education:
   courses:
-  - course: Minor in Computer Science
-    institution: University of Science and Technology of China
-    year: 2014
-  - course: BSc in Geophysics
-    institution: University of Science and Technology of China
-    year: 2014
+  - course: BSc in Geology
+    institution: Chulalongkorn University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +37,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:xiyuanbao@g.ucla.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:boontigan@ucla.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/xiyuanbao
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/xiyuanbao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,6 +62,4 @@ user_groups:
 - Grad Students
 ---
 
-Xiyuan Bao is a 2nd-year PhD Student. He is interested in understanding the mantle dynamics using mutiple approaches, including lab fluid experiments and numerical simulation, and compare them with surface observations from seismology and geochemistry.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Boontigan Kuhasubpasin is a 1st-year PhD Student. She received her B.S. in geology from Chulalongkorn University, Thailand. She is interested in the interaction between mantle dynamics and surface processes. Her research focuses on understanding lithospheric structure and the effect of lithospheric stresses on landscapes.  

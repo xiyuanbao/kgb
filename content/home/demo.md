@@ -63,3 +63,9 @@ This homepage section is an example of adding [elements](https://sourcethemes.co
 
 Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
 {{% /alert %}}
+
+{{< tweet 666616452582129664 >}}
+
+
+
+{{< youtube id="w7Ft2ymGmfc" autoplay="true" >}}
