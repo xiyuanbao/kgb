@@ -82,4 +82,5 @@ Group photo of the lovely volunteers!
 
 {{< figure src="featured.jpg"   lightbox="true" >}}
 
-From Left to Right: Matthew Bogumil, [Xiyuan Bao](kgb/author/xiyuan-bao/), Boontigan Kuhasubpasin, Arthur Lo, [Xuesong Ding](/kgb/author/xuesong-ding/)
+From Left to Right: [Matthew Bogumil](kgb/author/matthew-bogumil/), [Xiyuan Bao](kgb/author/xiyuan-bao/), [Boontigan Kuhasubpasin](kgb/author/boontigan-kuhasubpasin/), [Arthur Lo](arthur-lo), [Xuesong Ding](/kgb/author/xuesong-ding/)
+
