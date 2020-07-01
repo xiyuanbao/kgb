@@ -69,8 +69,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
+user_groups:
+- Principal Investigator
 #- Visitors
 ---
 Welcome to the tracKing lagranGian Buoyancy (KGB) Lab. Our research focuses on the connection between Earth’s surface processes and the forces below the surface that drive and shape them. Recently, we reexamined how strong the Earth’s mantle is, and ventured into the connection between thermodynamics and fluid dynamics for our planet. The latter is particularly fascinating as it suggests that the thermodynamics of mantle materials exert a deep control on the thermal and perhaps biological evolution of our planet. We have also developed and applied joint techniques on particle image velocimetry and thermometry to the visualization and understanding of flow in very viscous fluids.

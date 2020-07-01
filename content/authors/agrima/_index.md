@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Associate
+role: Advised Master and PhD student<br> now Postdoctoral Associate at UT-Austin
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
     year: 2020
   - course: MSc in Geophysics
     institution: University College London
-    year: 2020
+    year: 2012
 
 
 # Social/Academic Networking

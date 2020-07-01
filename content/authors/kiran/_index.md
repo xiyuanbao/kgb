@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Associate
+role: Co-advised PhD Student<br> now Postdoctoral Associate at UF
 
 # Organizations/Affiliations
 organizations:
