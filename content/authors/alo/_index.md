@@ -26,12 +26,9 @@ interests:
 
 education:
   courses:
-  - course: Minor in Computer Science
-    institution: University of Science and Technology of China
-    year: 2014
   - course: BSc in Geophysics
-    institution: University of Science and Technology of China
-    year: 2014
+    institution: University of Califrnoa, Los Angeles
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
