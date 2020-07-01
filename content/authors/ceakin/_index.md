@@ -5,7 +5,7 @@ title: Caroline Eakin
 # Username (this should match the folder name)
 authors:
 - ceakin
-
+weight: 39
 # Is this the primary user of the site?
 superuser: false
 
@@ -66,7 +66,7 @@ user_groups:
 - Alumni
 ---
 
-Caroline M. Eakin received her PhD in Geology and Geophysics under the supervision of Prof. Maureen Long in Yale University. Prof. Carolina Lithgow-Bertelloni was her seondary advisor.
+Caroline M. Eakin received her PhD in Geology and Geophysics under the supervision of Prof. Maureen Long at Yale University. Prof. Carolina Lithgow-Bertelloni was her seondary advisor.
 
-Click to see her [departmental page](http://rses.anu.edu.au/) and [personal page](http://rses.anu.edu.au/people/academics/dr-caroline-m-eakin#acton-tabs-link--tabs-person_tabs-middle-1). 
+Click to see her [personal page](http://rses.anu.edu.au/people/academics/dr-caroline-m-eakin#acton-tabs-link--tabs-person_tabs-middle-1). 
 

@@ -5,7 +5,7 @@ title: Kiran Chotalia
 # Username (this should match the folder name)
 authors:
 - kiran
-
+weight: 10
 # Is this the primary user of the site?
 superuser: false
 
@@ -61,7 +61,7 @@ user_groups:
 - Alumni
 ---
 
-Kiran Chotalia received her PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni & Prof. John Brodholt in University College London. She was also a visiting student in UCLA in 2019.
+Kiran Chotalia received her PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni & Prof. John Brodholt at University College London. She was also a visiting student in UCLA in 2019.
 
 Click to see her [link at UCL](https://www.ucl.ac.uk/earth-sciences/people/research-students/kiran-chotalia). 
 

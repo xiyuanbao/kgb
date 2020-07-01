@@ -5,7 +5,7 @@ title: John Naliboff
 # Username (this should match the folder name)
 authors:
 - jnaliboff
-
+Weight: 19
 # Is this the primary user of the site?
 superuser: false
 
@@ -65,7 +65,7 @@ user_groups:
 - Alumni
 ---
 
-John Naliboff received his PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni in University of Michigan-Ann Arbor. 
+John Naliboff received his PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni at University of Michigan-Ann Arbor. 
 
 Click to see his [personal page](https://geodynamics.org/cig/about/people/profile-naliboff/) and [ad for prospective student](https://community.geodynamics.org/t/phd-opportunity-at-new-mexico-tech-in-geodynamic-modeling-of-fluid-transport-within-plate-boundaries/886). 
 

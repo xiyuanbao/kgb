@@ -5,7 +5,7 @@ title: William Newsome
 # Username (this should match the folder name)
 authors:
 - wnewsome
-
+weight: 19
 # Is this the primary user of the site?
 superuser: false
 
@@ -62,7 +62,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
+
 ---
 
-William H. Newsome received his PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni in University of Michigan-Ann Arbor. 
+Wenbo Xu received his PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni atUniversity of Michigan-Ann Arbor. 
 

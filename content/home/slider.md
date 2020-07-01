@@ -17,6 +17,12 @@ height = "500px"
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
+
+  #overlay_color = "#666"  # An HTML color value.
+  overlay_img = "collage.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "Welcome to the KGB Lab!"
   content = "tracKing laGrangian Buoyancy"
   align = "center"  # Choose `center`, `left`, or `right`.

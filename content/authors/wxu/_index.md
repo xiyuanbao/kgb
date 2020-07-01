@@ -5,7 +5,7 @@ title: Wenbo Xu
 # Username (this should match the folder name)
 authors:
 - wxu
-
+weight: 20
 # Is this the primary user of the site?
 superuser: false
 
@@ -66,7 +66,7 @@ user_groups:
 - Alumni
 ---
 
-Wenbo Xu received his PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni in University of Michigan-Ann Arbor. 
+Wenbo Xu received his PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni atUniversity of Michigan-Ann Arbor. 
 
 Click to see his contact page](https://hl.com/contact-us/wenbo-xu). 
 

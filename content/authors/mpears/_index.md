@@ -5,7 +5,7 @@ title: Marie Pears
 # Username (this should match the folder name)
 authors:
 - mpears
-
+weight: 19
 # Is this the primary user of the site?
 superuser: false
 
@@ -64,5 +64,5 @@ user_groups:
 - Alumni
 ---
 
-Marie B. Pears received her PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni in University of College London. 
+Marie B. Pears received her PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni at University of College London. 
 
