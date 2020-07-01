@@ -10,11 +10,11 @@ Weight: 29
 superuser: false
 
 # Role/position
-role: Advised Postdoc<br> now Professor at New Mexico Tech
+role: Former Postdoc<br> now Professor at New Mexico Tech
 
 # Organizations/Affiliations
 organizations:
-- name: New Mexico Institute of Mining and Technology,
+- name: New Mexico Institute of Mining and Technology
   url: "https://www.nmt.edu/academics/ees/index.php"
 
 # Short bio (displayed in user profile at end of posts)
@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:john.naliboff@nmt.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:susan.bilek@nmt.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -52,9 +52,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/John_Naliboff
+#- icon: researchgate
+#  icon_pack: ai
+#  link: https://www.researchgate.net/profile/John_Naliboff
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,7 +65,7 @@ user_groups:
 - Alumni
 ---
 
-Susan Bilek received her PhD in Geophysics under the supervision of Prof. Thorne Lay at University of California, Santa Cruz. Prof. Carolina Lithgow-Bertelloni was her postdoc advisor during 2001-2003 at University of Michigan-Ann Arbor. 
+Susan Bilek received her PhD in Geophysics under the supervision of Prof. Thorne Lay at University of California, Santa Cruz. Prof. Carolina Lithgow-Bertelloni was her postdoc co-advisor (50%) during 2001-2003 at University of Michigan-Ann Arbor. 
 
 Click to see her [personal page](https://www.nmt.edu/academics/ees/faculty/sbilek.php).
 

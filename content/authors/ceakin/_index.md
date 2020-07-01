@@ -5,7 +5,7 @@ title: Caroline Eakin
 # Username (this should match the folder name)
 authors:
 - ceakin
-weight: 39
+weight: 22
 # Is this the primary user of the site?
 superuser: false
 
@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- 0Alumni
 ---
 
 Caroline M. Eakin received her PhD in Geology and Geophysics under the supervision of Prof. Maureen Long at Yale University. Prof. Carolina Lithgow-Bertelloni was her seondary advisor.

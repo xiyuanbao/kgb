@@ -5,7 +5,7 @@ title: Elodie Kendall
 # Username (this should match the folder name)
 authors:
 - ekendall
-weight: 39
+weight: 22
 # Is this the primary user of the site?
 superuser: false
 
@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- 0Alumni
 ---
 
 Elodie Kendall received her PhD in Geophysics under the supervision of Prof. Ana Ferreira at University College London. Prof. Carolina Lithgow-Bertelloni was her seondary advisor.

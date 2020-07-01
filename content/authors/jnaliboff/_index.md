@@ -14,7 +14,7 @@ role: Advised PhD Student<br> now Assistant Professor at New Mexico Tech
 
 # Organizations/Affiliations
 organizations:
-- name: New Mexico Institute of Mining and Technology,
+- name: New Mexico Institute of Mining and Technology
   url: "https://www.nmt.edu/academics/ees/index.php"
 
 # Short bio (displayed in user profile at end of posts)
