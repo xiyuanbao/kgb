@@ -5,12 +5,12 @@ title: John Naliboff
 # Username (this should match the folder name)
 authors:
 - jnaliboff
-Weight: 19
+Weight: 41
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Advised PhD Student<br> now Assistant Professor at New Mexico Tech
+role: PhD 2009<br> Assistant Professor at New Mexico Tech
 
 # Organizations/Affiliations
 organizations:

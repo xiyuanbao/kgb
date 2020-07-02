@@ -5,12 +5,12 @@ title: Marie Pears
 # Username (this should match the folder name)
 authors:
 - mpears
-weight: 19
+weight: 35
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Advised PhD Student <br> now Analyst at StarStone Insurance
+role: PhD 2015 <br> Analyst at StarStone Insurance
 
 # Organizations/Affiliations
 organizations:

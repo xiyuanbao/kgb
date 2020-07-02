@@ -5,12 +5,12 @@ title: Kiran Chotalia
 # Username (this should match the folder name)
 authors:
 - kiran
-weight: 10
+weight: 30
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Co-advised PhD Student<br> now Postdoctoral Associate at UF
+role: PhD 2020<br> Postdoctoral Associate at UF
 
 # Organizations/Affiliations
 organizations:

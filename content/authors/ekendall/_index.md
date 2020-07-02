@@ -5,12 +5,12 @@ title: Elodie Kendall
 # Username (this should match the folder name)
 authors:
 - ekendall
-weight: 22
+weight: 35
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Secondary-advised PhD Student<br> now Teaching Fellow at UCL
+role: PhD 2020<br> Teaching Fellow at UCL
 
 # Organizations/Affiliations
 organizations:
@@ -62,10 +62,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 0Alumni
+- Alumni
 ---
 
-Elodie Kendall received her PhD in Geophysics under the supervision of Prof. Ana Ferreira at University College London. Prof. Carolina Lithgow-Bertelloni was her seondary advisor.
+Elodie Kendall received her PhD in Geophysics under the supervision of Prof. Ana Ferreira at University College London. Prof. Carolina Lithgow-Bertelloni was her Master advisor and seondary PhD advisor.
 
 Click to see her [personal page](https://www.ucl.ac.uk/earth-sciences/people/research-staff/dr-elodie-kendall). 
 

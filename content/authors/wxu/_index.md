@@ -5,12 +5,12 @@ title: Wenbo Xu
 # Username (this should match the folder name)
 authors:
 - wxu
-weight: 20
+weight: 42
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Advised PhD Student <br> now Director at Houlihan Lokey
+role: PhD 2008 <br> Director at Houlihan Lokey
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +66,7 @@ user_groups:
 - Alumni
 ---
 
-Wenbo Xu received his PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni atUniversity of Michigan-Ann Arbor. 
+Wenbo Xu received his PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni at University of Michigan-Ann Arbor. 
 
 Click to see his contact page](https://hl.com/contact-us/wenbo-xu). 
 

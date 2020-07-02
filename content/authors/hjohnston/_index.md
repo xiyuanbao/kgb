@@ -5,12 +5,12 @@ title: Hans Johnston
 # Username (this should match the folder name)
 authors:
 - hjohnston
-Weight: 29
+Weight: 148
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former Postdoc<br> now Research Assistant Professor at UMass Amherst
+role: Former Postdoc<br> Research Assistant Professor at UMass Amherst
 
 # Organizations/Affiliations
 organizations:

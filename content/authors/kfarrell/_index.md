@@ -5,12 +5,12 @@ title: Keely O'Farrell
 # Username (this should match the folder name)
 authors:
 - kfarrell
-Weight: 29
+Weight: 134
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former Postdoc<br> now Assistant Professor at University of Kentucky
+role: Former Postdoc<br> Assistant Professor at University of Kentucky
 
 # Organizations/Affiliations
 organizations:

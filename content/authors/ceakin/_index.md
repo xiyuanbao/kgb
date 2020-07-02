@@ -5,12 +5,12 @@ title: Caroline Eakin
 # Username (this should match the folder name)
 authors:
 - ceakin
-weight: 22
+weight: 135
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Secondary-advised PhD Student<br> now ARC DECRA Fellow at ANU 
+role: PhD 2015<br> ARC DECRA Fellow at ANU 
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 0Alumni
+- Alumni
 ---
 
 Caroline M. Eakin received her PhD in Geology and Geophysics under the supervision of Prof. Maureen Long at Yale University. Prof. Carolina Lithgow-Bertelloni was her seondary advisor.

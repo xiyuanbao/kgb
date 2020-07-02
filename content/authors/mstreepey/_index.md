@@ -5,12 +5,12 @@ title: Margaret Streepey
 # Username (this should match the folder name)
 authors:
 - mstreepey
-weight: 21
+weight: 49
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Co-advised PhD Student and Postdoc<br> now Professor at Earlham
+role: PhD 2001<br> Professor at Earlham
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ user_groups:
 - Alumni
 ---
 
-Margaret M. Streepey received her PhD in Geology under the supervision of Prof. Ben van der Pluijm & Prof. Carolina Lithgow-Bertelloni at University of Michigan-Ann Arbor. 
+Margaret M. Streepey received her PhD in Geology under the supervision of Prof. Ben van der Pluijm & Prof. Carolina Lithgow-Bertelloni at University of Michigan-Ann Arbor.  She was also Carolina's postdoc in 2001.
 
 Click to see her [departmental page](https://earlham.edu/bio/?t=dir&id=12268&r=41416&d=faculty) and [personal page](http://legacy.earlham.edu/~streeme/cv.html). 
 

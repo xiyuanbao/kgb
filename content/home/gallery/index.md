@@ -17,4 +17,4 @@ subtitle = ""
 
 <p> </p>
 
-{{< video library="1" src="video_gallery/PRJ-EQ.mp4" controls="yes" width="100">}}
+{{< video library="1" src="video_gallery/PRJ-EQ-WMB.mp4" controls="yes" width="100">}}

@@ -5,12 +5,12 @@ title: Joost van Summeren
 # Username (this should match the folder name)
 authors:
 - jsummeren
-Weight: 29
+Weight: 138
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former Postdoc<br> now Scientific Researcher at KWR Water Research Institute
+role: Former Postdoc<br> Scientific Researcher at KWR Water Research Institute
 
 # Organizations/Affiliations
 organizations:

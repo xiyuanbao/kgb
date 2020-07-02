@@ -5,12 +5,13 @@ title: Antoniette Grima
 # Username (this should match the folder name)
 authors:
 - agrima
-weight: 10
+#weight is 2050-last year, for postdoc or 2nd-advised student,+100
+weight: 30
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Advised Master and PhD student<br> now Postdoctoral Associate at UT-Austin
+role: PhD 2020<br> Postdoctoral Associate at UT-Austin
 
 # Organizations/Affiliations
 organizations:

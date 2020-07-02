@@ -5,12 +5,12 @@ title: Fabio Crameri
 # Username (this should match the folder name)
 authors:
 - fcrameri
-Weight: 29
+Weight: 134
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former Postdoc<br> now Researcher at University of Oslo
+role: Former Postdoc<br> Researcher at University of Oslo
 
 # Organizations/Affiliations
 organizations:

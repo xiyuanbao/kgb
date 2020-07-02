@@ -5,12 +5,12 @@ title: Susan Bilek
 # Username (this should match the folder name)
 authors:
 - sbilek
-Weight: 29
+Weight: 147
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former Postdoc<br> now Professor at New Mexico Tech
+role: Former Postdoc<br> Professor at New Mexico Tech
 
 # Organizations/Affiliations
 organizations:

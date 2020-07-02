@@ -5,12 +5,12 @@ title: William Newsome
 # Username (this should match the folder name)
 authors:
 - wnewsome
-weight: 19
+weight: 39
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Advised PhD Student and Postdoc<br> now Engineer at Airflow Sciences Corporation
+role: PhD 2011<br> now Engineer at Airflow Sciences Corporation
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Geophysics
     institution: University of Michigan-Ann Arbor
-    year: 20011
+    year: 2011
 
 
 # Social/Academic Networking
@@ -65,5 +65,5 @@ user_groups:
 
 ---
 
-Wenbo Xu received his PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni atUniversity of Michigan-Ann Arbor. 
+William H. Newsome received his PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni at University of Michigan-Ann Arbor. He was also Carolina's postdoc in 2011.
 

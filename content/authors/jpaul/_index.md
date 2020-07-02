@@ -5,12 +5,12 @@ title: Jonathan Paul
 # Username (this should match the folder name)
 authors:
 - jpaul
-Weight: 29
+Weight: 134
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former Postdoc<br> now Lecturer at Royal Holloway, University of London
+role: Former Postdoc<br> Lecturer at Royal Holloway, University of London
 
 # Organizations/Affiliations
 organizations:

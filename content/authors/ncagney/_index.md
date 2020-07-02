@@ -5,12 +5,12 @@ title: Neil Cagney
 # Username (this should match the folder name)
 authors:
 - ncagney
-Weight: 29
+Weight: 133
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former Postdoc<br> now Lecturer at Queen Mary University of London
+role: Former Postdoc<br> Lecturer at Queen Mary University of London
 
 # Organizations/Affiliations
 organizations:

@@ -5,12 +5,12 @@ title: Clinton Conrad
 # Username (this should match the folder name)
 authors:
 - cconrad
-Weight: 29
+Weight: 145
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former Postdoc<br> now Professor at University of Oslo
+role: Former Postdoc<br> Professor at University of Oslo
 
 # Organizations/Affiliations
 organizations:

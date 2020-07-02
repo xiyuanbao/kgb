@@ -4,13 +4,13 @@ title: Juan Gonzalez
 
 # Username (this should match the folder name)
 authors:
-- cconrad
-Weight: 29
+- jgonzalez
+Weight: 131
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former Postdoc<br> now Postdoc at Durham University
+role: Former Postdoc<br> Postdoc at Durham University
 
 # Organizations/Affiliations
 organizations:
