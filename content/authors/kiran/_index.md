@@ -28,7 +28,9 @@ education:
   - course: PhD in Geophysics
     institution: University College London
     year: 2020
-
+  - course: MSci in Geophysics
+    institution: University College London
+    year: 2015
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -61,7 +63,7 @@ user_groups:
 - Alumni
 ---
 
-Kiran Chotalia received her PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni & Prof. John Brodholt at University College London. She was also a visiting student in UCLA in 2019.
+Kiran Chotalia received her PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni & Prof. John Brodholt at University College London. She was also a visiting student in UCLA in 2019, and she did her M.Sci 4th year project with Carolina during 2014-2015.
 
 Click to see her [link at UCL](https://www.ucl.ac.uk/earth-sciences/people/research-students/kiran-chotalia). 
 

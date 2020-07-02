@@ -28,7 +28,9 @@ education:
   - course: PhD in Geophysics
     institution: University of College London
     year: 2015
-
+  - course: MSci in Geophysics
+    institution: University of College London
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,5 +66,5 @@ user_groups:
 - Alumni
 ---
 
-Marie B. Pears received her PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni at University of College London. 
+Marie B. Pears received her PhD in Geophysics under the supervision of Prof. Carolina Lithgow-Bertelloni at University of College London. She also did her M.Sci 4th year project with Carolina during 2009-2010.
 

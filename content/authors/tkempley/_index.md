@@ -61,7 +61,7 @@ user_groups:
 - Alumni
 ---
 
-Tomos Kempley is a PhD student under the supervision of Prof. Carolina Lithgow-Bertelloni at University College London. 
+Tomos Kempley is a PhD student under the supervision of Prof. Carolina Lithgow-Bertelloni at University College London. He also did his M.Sci 4th year project with Carolina during 2010-2012 at University College London.
 
 Click to see his [link at UCL](https://www.ucl.ac.uk/earth-sciences/people/research-students/tomos-kempley). 
 

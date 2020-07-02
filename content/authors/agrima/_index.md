@@ -29,7 +29,7 @@ education:
   - course: PhD in Geophysics
     institution: University College London
     year: 2020
-  - course: MSc in Geophysics
+  - course: MSci in Geosciences
     institution: University College London
     year: 2012
 
@@ -59,7 +59,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-7504-4353
-  
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/antoniettegretagrima/?originalSubdomain=mt
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 

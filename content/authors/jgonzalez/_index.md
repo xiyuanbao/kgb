@@ -10,7 +10,7 @@ Weight: 131
 superuser: false
 
 # Role/position
-role: Former Postdoc<br> Postdoc at Durham University
+role: Former Postdoc<br> PDI at Durham University
 
 # Organizations/Affiliations
 organizations:
@@ -66,4 +66,3 @@ user_groups:
 ---
 
 Juan Rodríguez-González received his PhD in Geophysics at Universidad Complutense de Madrid. Prof. Carolina Lithgow-Bertelloni was his postdoc co-advisor (50%) during 2017-2019 at University College London. 
-
