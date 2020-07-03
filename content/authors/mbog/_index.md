@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,20 +18,18 @@ organizations:
   url: "https://epss.ucla.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mantle dynamics and thermodynamics.
+bio: Matthew Bogumil is a 1st year Ph.D. student coming to UCLA in Fall of 2020. His interest lie in mantle dynamic surface manifestations' effects on paleoceanography. His approach investigates the efficacy of coupled solid Earth dynamics on climate evolution.
 
 interests:
 - Mantle Dynamics
-- Thermodynamics of Mantle Minerals
+- Paleooceanography
+- Sea-level Evolution
 
 education:
   courses:
-  - course: Minor in Computer Science
-    institution: University of Science and Technology of China
-    year: 2014
   - course: BSc in Geophysics
-    institution: University of Science and Technology of China
-    year: 2014
+    institution: University of California, Los Angeles
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:xiyuanbao@g.ucla.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:matthewbogumil@g.ucla.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -49,7 +47,7 @@ social:
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/xiyuanbao
+  link: https://github.com/Bogumil-Matthew
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,6 +63,4 @@ user_groups:
 - Grad Students
 ---
 
-Xiyuan Bao is a 2nd-year PhD Student. He is interested in understanding the mantle dynamics using mutiple approaches, including lab fluid experiments and numerical simulation, and compare them with surface observations from seismology and geochemistry.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Matthew Bogumil is a 1st year Ph.D. student coming to UCLA in Fall of 2020. His interest lie in mantle dynamic surface manifestations' effects on paleoceanography. His approach investigates the efficacy of coupled solid Earth dynamics on climate evolution.
