@@ -5,7 +5,7 @@
     <link>https://xiyuanbao.github.io/kgb/publication-type/2/</link>
       <atom:link href="https://xiyuanbao.github.io/kgb/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>KGB Lab © 2020</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>KGB Lab © 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xiyuanbao.github.io/kgb/images/logo_hub5f7ad74adc7cdf924b2b2050436ddb7_29119_300x300_fit_lanczos_2.png</url>
       <title>2</title>
@@ -13,23 +13,499 @@
     </image>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://xiyuanbao.github.io/kgb/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://xiyuanbao.github.io/kgb/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>The coupled effects of mantle mixing and a water-dependent viscosity on the surface ocean</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/chotalia-epsl-530-115881-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/chotalia-epsl-530-115881-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extrinsic Elastic Anisotropy in a Compositionally Heterogeneous Earth&#39;s Mantle</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/faccenda-jgre-124-1671-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/faccenda-jgre-124-1671-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamic life of an oceanic plate</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/crameri-t-760-107-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/crameri-t-760-107-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abrupt upper-plate tilting during slab-transition-zone collision</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/crameri-t-746-199-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/crameri-t-746-199-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mantle Influence on Andean and Pre-Andean Topography</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/davila-eca-363-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/davila-eca-363-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamical control of subduction parameters on surface topography</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/crameri-ggg-18-1661-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/crameri-ggg-18-1661-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraining the source of mantle plumes</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/cagney-epsl-435-55-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/cagney-epsl-435-55-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics and excess temperature of a plume throughout its life cycle</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/cagney-gji-205-1574-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/cagney-gji-205-1574-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why is Africa rifting?</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/kendall-mrav-420-11-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/kendall-mrav-420-11-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic uplift during slab flattening</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/davila-epsl-425-34-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/davila-epsl-425-34-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature and velocity measurements of a rising thermal plume</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/cagney-ggg-16-579-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/cagney-ggg-16-579-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viscosity jump in Earth&#39;s mid-mantle</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/rudolph-s-350-1349-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/rudolph-s-350-1349-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Peruvian flat-subduction dynamics on the evolution of western Amazonia</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/eakin-epsl-404-250-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/eakin-epsl-404-250-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply to comment on &#34;dynamic topography in South America&#34; by Hechenleitnera, Fiore lli, Larrovere, Grellet-Tinnera, and Carignano</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/davila-jsaes-50-95-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/davila-jsaes-50-95-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thrust initiation and its control on tectonic wedge geometry: An insight from physical and numerical models</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/bose-jsg-67-37-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/bose-jsg-67-37-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic topography in South America</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/davila-jsaes-43-127-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/davila-jsaes-43-127-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical calculations of two-dimensional large Prandtl number convection in a box</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/whitehead-jfm-729-584-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/whitehead-jfm-729-584-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petrological interpretation of deep crustal intrusive bodies beneath oceanic hotspot provinces</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/richards-ggg-14-604-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/richards-ggg-14-604-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetics, equation of state, and elasticity of NAL phase: Potential host for alkali and aluminum in the lower mantle</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/mookherjee-grl-39-l-19306-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/mookherjee-grl-39-l-19306-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geophysics of Chemical Heterogeneity in the Mantle</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/stixrude-arepsv-4-40-569-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/stixrude-arepsv-4-40-569-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of lithospheric thickness and density structure on Earth&#39;s stress field</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/naliboff-gji-188-1-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/naliboff-gji-188-1-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The importance of slab pull and a global asthenosphere to plate motions</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/van-ggg-13-q-0-ak-03-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/van-ggg-13-q-0-ak-03-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermodynamics of mantle minerals - II. Phase equilibria</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/stixrude-gji-184-1180-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/stixrude-gji-184-1180-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tectonic and dynamic controls on the topography and subsidence of the Argentine Pampas: The role of the flat slab</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/davila-epsl-295-187-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/davila-epsl-295-187-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermodynamics of the Earth&#39;s Mantle</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/stixrude-tcmimpga-71-465-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/stixrude-tcmimpga-71-465-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimates of the transition zone temperature in a mechanically mixed upper mantle</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/ritsema-epsl-277-244-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/ritsema-epsl-277-244-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring the thermochemical structure of the upper mantle from seismic data</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/cammarano-gji-179-1169-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/cammarano-gji-179-1169-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint mineral physics and seismic wave traveltime analysis of upper mantle temperature</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/ritsema-g-37-363-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/ritsema-g-37-363-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modification of the lithospheric stress field by lateral variations in plate-mantle coupling</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/naliboff-grl-36-l-22307-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/naliboff-grl-36-l-22307-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Triggered seismicity associated with the 1990 Nicoya, Costa Rica, M-w=7.0 earthquake</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/bilek-ggg-10-q-04-s-13-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/bilek-ggg-10-q-04-s-13-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconciling strong slab pull and weak plate bending: The plate motion constraint on the strength of mantle slabs</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/wu-epsl-272-412-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/wu-epsl-272-412-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of bulk composition and temperature on mantle seismic structure</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/xu-epsl-275-70-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/xu-epsl-275-70-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation of seismic and petrologic thermometers suggests deep thermal anomalies beneath hotspots</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/courtier-epsl-264-308-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/courtier-epsl-264-308-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster seafloor spreading and lithosphere production during the mid-Cenozoic</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/conrad-g-35-29-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/conrad-g-35-29-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of phase transformations on lateral heterogeneity and dynamics in Earth&#39;s mantle</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/stixrude-epsl-263-45-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/stixrude-epsl-263-45-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase stability and shear softening in CaSiO3 perovskite at high pressure</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/stixrude-prb-75-024108-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/stixrude-prb-75-024108-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time variability in Cenozoic reconstructions of mantle heat flow: Plate tectonic cycles and implications for Earth&#39;s thermal evolution</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/loyd-pnasusa-104-14266-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/loyd-pnasusa-104-14266-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global reconstructions of Cenozoic seafloor ages: Implications for bathymetry and sea level</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/xu-epsl-243-552-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/xu-epsl-243-552-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravity observations and 3D structure of the Earth</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/ricard-crg-338-992-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/ricard-crg-338-992-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of continental roots and asthenosphere on plate-mantle coupling</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/conrad-grl-33-l-05312-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/conrad-grl-33-l-05312-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A plate tectonic mechanism for methane hydrate release along subduction zones</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/jahren-epsl-236-691-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/jahren-epsl-236-691-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mineralogy and elasticity of the oceanic upper mantle: Origin of the low-velocity zone</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/stixrude-jgre-110-b-03204-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/stixrude-jgre-110-b-03204-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slab pull, slab weakening, and their relation to deep intra-slab seismicity</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/bilek-grl-32-l-14305-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/bilek-grl-32-l-14305-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress changes in the Costa Rica subduction zone due to the 1999 M-w=6.9 Quepos earthquake</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/bilek-epsl-230-97-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/bilek-epsl-230-97-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermodynamics of mantle minerals - I. Physical properties</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/stixrude-gji-162-610-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/stixrude-gji-162-610-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exhumation of a collisional orogen: A perspective from the North American Grenville Province</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/streepey-ptegoina-197-391-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/streepey-ptegoina-197-391-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Great earthquakes and slab pull: interaction between seismic coupling and plate-slab coupling</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/conrad-epsl-218-109-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/conrad-epsl-218-109-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iceland, the Farallon slab, and dynamic topography of the North Atlantic</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/conrad-g-32-177-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/conrad-g-32-177-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Origin of the lithospheric stress field</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/lithgow-bertelloni-jgre-109-b-01408-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/lithgow-bertelloni-jgre-109-b-01408-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The temporal evolution of plate driving forces: Importance of &#34;slab suction&#34; versus &#34;slab pull&#34; during the Cenozoic</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/conrad-jgre-109-b-10407-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/conrad-jgre-109-b-10407-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How mantle slabs drive plate tectonics</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/conrad-s-298-207-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/conrad-s-298-207-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plume generation in natural thermal convection at high Rayleigh and Prandtl numbers</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/lithgow-bertelloni-jfm-434-1-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/lithgow-bertelloni-jfm-434-1-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupling of South American and African Plate motion and Plate deformation</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/silver-s-279-60-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/silver-s-279-60-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic topography, plate driving forces and the African superswell</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/lithgow-bertelloni-n-395-269-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/lithgow-bertelloni-n-395-269-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamics of Cenozoic and Mesozoic plate motions</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/lithgow-bertelloni-rg-36-27-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/lithgow-bertelloni-rg-36-27-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time scales and heterogeneous structure in geodynamic earth models</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/bunge-s-280-91-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/bunge-s-280-91-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An explanation for Earth&#39;s long-term rotational stability</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/richards-s-275-372-1997/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/richards-s-275-372-1997/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cenozoic subsidence and uplift of continents from time-varying dynamic topography</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/lithgowbertelloni-g-25-735-1997/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/lithgowbertelloni-g-25-735-1997/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plate motion changes, the Hawaiian-Emperor bend, and the apparent success and failure of geodynamic models</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/richards-epsl-137-19-1996/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/richards-epsl-137-19-1996/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cenozoic plate driving forces</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/lithgowbertelloni-grl-22-1317-1995/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/lithgowbertelloni-grl-22-1317-1995/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A geodynamic model of mantle density heterogeneity</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/ricard-jgre-98-21895-1993/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/ricard-jgre-98-21895-1993/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toroidal-poloidal partitioning of plate motions since 120 ma</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/lithgowbertelloni-grl-20-375-1993/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/lithgowbertelloni-grl-20-375-1993/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,0 +1,13 @@
+---
+title: "Thermodynamics of mantle minerals - I. Physical properties"
+date: 2005-01-01
+publishDate: 2020-07-13T00:41:11.532299Z
+authors: ["L. Stixrude", "C. Lithgow-Bertelloni"]
+publication_types: ["2"]
+projects: [HeFESTo]
+tags: [HeFESTo]
+abstract: "We present a theory for the computation of phase equilibria and physical properties of multicomponent assemblages relevant to the mantle of the Earth. The theory differs from previous treatments in being thermodynamically self-consistent: the theory is based on the concept of fundamental thermodynamic relations appropriately generalized to anisotropic strain and in encompassing elasticity in addition to the usual isotropic thermodynamic properties. In this first paper, we present the development of the theory, discuss its scope, and focus on its application to physical properties of mantle phases at elevated pressure and temperature including the equation of state, thermochernical properties and the elastic wave velocities. We find that the Eulerian finite strain formulation captures the variation of the elastic moduli with compression. The variation of the vibrational frequencies with compression is also cast as a Taylor series expansion in the Eulerian finite strain, the appropriate volume derivative of which leads to an expression for the Gruneisen parameter that agrees well with results from first principles theory. For isotropic materials, the theory contains nine material-specific parameters: the values at ambient conditions of the Helmholtz free energy, volume, bulk and shear moduli, their pressure derivatives, an effective Debye temperature, its first and second logarithmic volume derivatives (gamma(o), q(0)), and the shear strain derivative of gamma. We present and discuss in some detail the results of a global inversion of a wide variety of experimental data and first principles theoretical results, supplemented by systematic relations, for the values of these parametersfor 31 mantle species. Among our findings is that the value of q is likely to be significantly greater than unity for most mantle species. We apply the theory to the computation of the shear wave velocity, and temperature and compositional (Fe content) derivatives at relevant mantle pressure temperature conditions. Among the patterns that emerge is that garnet is anomalous in being remarkably insensitive to iron content or temperature as compared with other mantle phases."
+featured: false
+publication: "*Geophysical J. Int.*"
+---
+
