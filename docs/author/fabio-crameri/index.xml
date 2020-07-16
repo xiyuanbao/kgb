@@ -5,12 +5,52 @@
     <link>https://xiyuanbao.github.io/kgb/author/fabio-crameri/</link>
       <atom:link href="https://xiyuanbao.github.io/kgb/author/fabio-crameri/index.xml" rel="self" type="application/rss+xml" />
     <description>Fabio Crameri</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>KGB Lab © 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>KGB Lab © 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xiyuanbao.github.io/kgb/images/logo_hub5f7ad74adc7cdf924b2b2050436ddb7_29119_300x300_fit_lanczos_2.png</url>
       <title>Fabio Crameri</title>
       <link>https://xiyuanbao.github.io/kgb/author/fabio-crameri/</link>
     </image>
+    
+    <item>
+      <title>The dynamic life of an oceanic plate</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/crameri-t-760-107-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/crameri-t-760-107-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viscosity, Density and Deformation Mechanisms data for Slab Orphaning</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/grima-f-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/grima-f-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abrupt upper-plate tilting during slab-transition-zone collision</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/crameri-t-746-199-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/crameri-t-746-199-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamical control of subduction parameters on surface topography</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/crameri-ggg-18-1661-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/crameri-ggg-18-1661-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraining the source of mantle plumes</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/cagney-epsl-435-55-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/cagney-epsl-435-55-2016/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

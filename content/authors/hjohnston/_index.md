@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- 0Alumni
 ---
 
 Hans Johnston received his PhD in Mathematics under the supervision of Prof. Jian-Guo Liu at Temple University. Prof. Carolina Lithgow-Bertelloni was his postdoc co-advisor (15%) during 2002 at University of Michigan-Ann Arbor. 

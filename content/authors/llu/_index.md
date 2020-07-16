@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- 0Alumni
 ---
 
 Lu Lu received his PhD in Applied Math under the supervision of Prof. Charlie Doering & Prof. Carolina Lithgow-Bertelloni at University of Michigan-Ann Arbor. 

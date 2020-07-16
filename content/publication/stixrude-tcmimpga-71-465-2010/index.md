@@ -1,8 +1,8 @@
 ---
 title: "Thermodynamics of the Earth's Mantle"
 date: 2010-01-01
-publishDate: 2020-07-13T00:41:11.518613Z
-authors: ["L. ars Stixrude", "C. arolina Lithgow-Bertelloni"]
+publishDate: 2020-07-16T00:16:52.021270Z
+authors: ["Lars Stixrude", "Carolina Lithgow-Bertelloni"]
 publication_types: ["2"]
 abstract: ""
 featured: false

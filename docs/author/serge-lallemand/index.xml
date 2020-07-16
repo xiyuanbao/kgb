@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serge Lallemand | KGB Lab</title>
+    <link>https://xiyuanbao.github.io/kgb/author/serge-lallemand/</link>
+      <atom:link href="https://xiyuanbao.github.io/kgb/author/serge-lallemand/index.xml" rel="self" type="application/rss+xml" />
+    <description>Serge Lallemand</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>KGB Lab © 2020</copyright><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xiyuanbao.github.io/kgb/images/logo_hub5f7ad74adc7cdf924b2b2050436ddb7_29119_300x300_fit_lanczos_2.png</url>
+      <title>Serge Lallemand</title>
+      <link>https://xiyuanbao.github.io/kgb/author/serge-lallemand/</link>
+    </image>
+    
+    <item>
+      <title>Reconciling strong slab pull and weak plate bending: The plate motion constraint on the strength of mantle slabs</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/wu-epsl-272-412-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/wu-epsl-272-412-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
