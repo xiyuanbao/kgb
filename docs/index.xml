@@ -202,6 +202,14 @@
     </item>
     
     <item>
+      <title>Orphaning Regimes: The Missing Link Between Flattened and Penetrating Slab Morphologies</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/grima-feart-2020-00374/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/grima-feart-2020-00374/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The coupled effects of mantle mixing and a water-dependent viscosity on the surface ocean</title>
       <link>https://xiyuanbao.github.io/kgb/publication/chotalia-epsl-530-115881-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -815,7 +823,7 @@
     </item>
     
     <item>
-      <title>HeFESTO webinar on CIG</title>
+      <title>HeFESTo webinar on CIG</title>
       <link>https://xiyuanbao.github.io/kgb/talk/hefesto2019/</link>
       <pubDate>Thu, 09 May 2019 14:00:00 +0000</pubDate>
       <guid>https://xiyuanbao.github.io/kgb/talk/hefesto2019/</guid>
@@ -979,11 +987,17 @@ Three
     </item>
     
     <item>
-      <title>Viscosity, Density and Deformation Mechanisms data for Slab Orphaning</title>
-      <link>https://xiyuanbao.github.io/kgb/publication/grima-f-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://xiyuanbao.github.io/kgb/publication/grima-f-2019/</guid>
-      <description></description>
+      <title>2018 Francis Birch Lecture</title>
+      <link>https://xiyuanbao.github.io/kgb/talk/birch2018/</link>
+      <pubDate>Wed, 12 Dec 2018 16:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/talk/birch2018/</guid>
+      <description>&lt;p&gt;Timezone: EDT&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Jkv8Ik9QB-Y&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
     </item>
     
     <item>
@@ -1018,7 +1032,10 @@ Three
       <description>&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;: Compute self-consistently the phase equilibria and equilibrium physical properties of sub-solidus mantle assemblages.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;: &lt;a href=&#34;https://github.com/stixrude/HeFESToRepository&#34;&gt;https://github.com/stixrude/HeFESToRepository&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;How to reference&lt;/strong&gt;: When using HeFESTo, please cite &lt;em&gt;Stixrude &amp;amp; Lithgow-Bertelloni&lt;/em&gt; (2005) or &lt;em&gt;Stixrude &amp;amp; Lithgow-Bertelloni&lt;/em&gt; (2011), depending on the application, and, if separate, the paper specifying the parameter set used. &lt;em&gt;Stixrude &amp;amp; Lithgow-Bertelloni&lt;/em&gt; (2011) specifies the latest published parameter set (251010).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Parameter sets and lookup tables&lt;/strong&gt;: Lookup tables for basalt, harzburgite and pyrolite using 251010 can be obtained by emailing either &lt;a href=&#34;mailto:lstixrude@epss.ucla.edu&#34;&gt;lstixrude@epss.ucla.edu&lt;/a&gt; or &lt;a href=&#34;mailto:clb@epss.ucla.edu&#34;&gt;clb@epss.ucla.edu&lt;/a&gt;. &lt;em&gt;More coming soon!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parameter sets and lookup tables&lt;/strong&gt;: Lookup tables for basalt, harzburgite and pyrolite using 251010 can be found on 
+&lt;a href=&#34;https://github.com/stixrude/HeFESToRepository&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;. You will also find the latest published parameter set 270914. If you have questions contact us at 
+&lt;a href=&#34;mailto:lstixrude@epss.ucla.edu&#34;&gt;lstixrude@epss.ucla.edu&lt;/a&gt; or 
+&lt;a href=&#34;mailto:clb@epss.ucla.edu&#34;&gt;clb@epss.ucla.edu&lt;/a&gt; &lt;em&gt;More coming soon!&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Motivation&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This code grew out of an interest in the development of mineralogical Earth models and the exploration of the consequences and predictions of such models for other branches of geophysics. We felt that the large and rapidly growing base of knowledge on the nature of mantle phases and assemblages at high pressure had reached a state that construction of mineralogical Earth models seemed justified. Motivating questions include basic hypothesis tests: Are seismological observations of the mantle consistent with e.g. a lherzolitic composition? How do phase transformations and chemical heterogeneity interact in a convecting system? These have been central questions in the geophysics community for some time, and we felt that a general, flexible, self-consistent thermodynamics code would make a significant contribution towards answering them.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Theory and capability&lt;/em&gt;&lt;/p&gt;
@@ -1037,6 +1054,43 @@ Three
 &lt;p&gt;W. Xu, C. Lithgow-Bertelloni, L. Stixrude and J. Ritsema, The effect of bulk composition on seismic structure, &lt;em&gt;Earth and Planetary Science Letters&lt;/em&gt;, 275, 70-79, 2008, doi:10.1016/j.epsl.2008.08.012.&lt;/p&gt;
 &lt;p&gt;L. Stixrude and C. Lithgow-Bertelloni, Thermodynamics of mantle minerals II: Phase Equilibria*,* *Geophysical Journal International*, 184, 1180-1213, 2011, DOI: 10.1111/j.1365-246X.2010.04890.x&lt;/p&gt;
 &lt;p&gt;L. Stixrude and C. Lithgow-Bertelloni, Geophysics of chemical heterogeneity in the mantle*, Annual Reviews of Earth and Planetary Science*, 40, 565-595, 2012, 10.1146/annurev.earth.36.031207.124244.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-new-hefesto-logo&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/project/hefesto/hefesto_new_hu6eac0da1bb9f5e17647ee88c173ebe14_848239_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;New HeFESTo logo&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/project/hefesto/hefesto_new_hu6eac0da1bb9f5e17647ee88c173ebe14_848239_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1418&#34; height=&#34;1318&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    New HeFESTo logo
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 </description>
     </item>
     
