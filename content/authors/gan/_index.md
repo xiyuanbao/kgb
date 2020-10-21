@@ -62,4 +62,4 @@ user_groups:
 - Grad Students
 ---
 
-Boontigan Kuhasubpasin is a 1st-year PhD Student. She received her B.S. in geology from Chulalongkorn University, Thailand. She is interested in the interaction between mantle dynamics and surface processes. Her research focuses on understanding lithospheric structure and the effect of lithospheric stresses on landscapes.  
+Boontigan Kuhasubpasin is a 2nd-year PhD Student. She received her B.S. in geology from Chulalongkorn University, Thailand. She is interested in the interaction between mantle dynamics and surface processes. Her research focuses on understanding lithospheric structure and the effect of lithospheric stresses on landscapes.  

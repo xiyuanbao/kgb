@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HeFESTo | KGB Lab</title>
+    <link>https://xiyuanbao.github.io/kgb/tag/hefesto/</link>
+      <atom:link href="https://xiyuanbao.github.io/kgb/tag/hefesto/index.xml" rel="self" type="application/rss+xml" />
+    <description>HeFESTo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>KGB Lab © 2020</copyright><lastBuildDate>Thu, 09 May 2019 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xiyuanbao.github.io/kgb/images/logo_hub5f7ad74adc7cdf924b2b2050436ddb7_29119_300x300_fit_lanczos_2.png</url>
+      <title>HeFESTo</title>
+      <link>https://xiyuanbao.github.io/kgb/tag/hefesto/</link>
+    </image>
+    
+    <item>
+      <title>HeFESTo webinar on CIG</title>
+      <link>https://xiyuanbao.github.io/kgb/talk/hefesto2019/</link>
+      <pubDate>Thu, 09 May 2019 14:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/talk/hefesto2019/</guid>
+      <description>&lt;p&gt;Timezone: PDT&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/44Jams9XKH8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>HeFESTo</title>
+      <link>https://xiyuanbao.github.io/kgb/project/hefesto/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/project/hefesto/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;: Compute self-consistently the phase equilibria and equilibrium physical properties of sub-solidus mantle assemblages.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;: &lt;a href=&#34;https://github.com/stixrude/HeFESToRepository&#34;&gt;https://github.com/stixrude/HeFESToRepository&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to reference&lt;/strong&gt;: When using HeFESTo, please cite &lt;em&gt;Stixrude &amp;amp; Lithgow-Bertelloni&lt;/em&gt; (2005) or &lt;em&gt;Stixrude &amp;amp; Lithgow-Bertelloni&lt;/em&gt; (2011), depending on the application, and, if separate, the paper specifying the parameter set used. &lt;em&gt;Stixrude &amp;amp; Lithgow-Bertelloni&lt;/em&gt; (2011) specifies the latest published parameter set (251010).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parameter sets and lookup tables&lt;/strong&gt;: Lookup tables for basalt, harzburgite and pyrolite using 251010 can be found on 
+&lt;a href=&#34;https://github.com/stixrude/HeFESToRepository&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;. You will also find the latest published parameter set 270914. If you have questions contact us at 
+&lt;a href=&#34;mailto:lstixrude@epss.ucla.edu&#34;&gt;lstixrude@epss.ucla.edu&lt;/a&gt; or 
+&lt;a href=&#34;mailto:clb@epss.ucla.edu&#34;&gt;clb@epss.ucla.edu&lt;/a&gt; &lt;em&gt;More coming soon!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Motivation&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This code grew out of an interest in the development of mineralogical Earth models and the exploration of the consequences and predictions of such models for other branches of geophysics. We felt that the large and rapidly growing base of knowledge on the nature of mantle phases and assemblages at high pressure had reached a state that construction of mineralogical Earth models seemed justified. Motivating questions include basic hypothesis tests: Are seismological observations of the mantle consistent with e.g. a lherzolitic composition? How do phase transformations and chemical heterogeneity interact in a convecting system? These have been central questions in the geophysics community for some time, and we felt that a general, flexible, self-consistent thermodynamics code would make a significant contribution towards answering them.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Theory and capability&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The theory upon which the code is based has been described and illustrated with applications in previous publications [e.g. &lt;em&gt;Stixrude and Lithgow-Bertelloni&lt;/em&gt;, 2005a, 2005b; &lt;em&gt;Xu et al&lt;/em&gt;., 2008, &lt;em&gt;Stixrude and Lithgow-Bertelloni&lt;/em&gt;, 2011; &lt;em&gt;Stixrude &amp;amp; Lithgow-Bertelloni&lt;/em&gt;, 2012 ].&lt;/p&gt;
+&lt;p&gt;We have developed a thermodynamic formulation of mantle assemblages based on the concepts of fundamental thermodynamic relations and Legendre transforms and generalized to conditions of anisotropic stress and strain. For a given pressure, temperature, and bulk composition, the code computes the equilibrium phase assemblage (amounts and compositions of coexisting phases) the equilibrium physical properties of each phase and the assemblage, including but not limited to the density, heat capacity, enthalpy, thermal expansivity, bulk and shear moduli, and P- and S-wave velocities. The Voigt and Reuss bounds, and the Hill average of the moduli and velocities of the assemblage are computed.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Significance for the geosciences community&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Two primary uses of this code would be: 1) As a component of a fully compressible convection code. The code can compute on an arbitrary pressure-temperature-composition grid, all thermodynamic quantities relevant to a convection calculation, including the density and enthalpy, including fully the influence of phase transformations. A lookup table based on the thermodynamics code would be a natural starting point for exploring the dynamics of realistic mantle mineralogical models. 2) Tests of hypothetical models of mantle composition against seismological observations. The crucial feature of our code that will permit central questions to be addressed more convincingly is the self-consistent treatment of phase equilibria and physical properties. To our knowledge, our code is the only one that accomplishes this along with the appropriate anisotropic generalization that is critical for comparison with seismology.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Benchmarks&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The code has been tested against a code widely used in shallow mantle and crustal applications: PERPLE_X by Connolly et al. (ETH) [e.g. &lt;em&gt;Connolly&lt;/em&gt;, 2005]. In particular, Connolly independently reproduced our published phase diagram of a lherzolitic composition [&lt;em&gt;Stixrude and Lithgow-Bertelloni&lt;/em&gt;, 2005a; &lt;em&gt;Stixrude and Lithgow-Bertelloni&lt;/em&gt;, 2011].&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cleaning up&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The code still needs documentation and optimization work. This is an ongoing effort.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;References&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Connolly J. A. D., Computation of phase equilibria by linear programming: a tool for geodynamic modeling and its application to subduction zone decarbonation, &lt;em&gt;Earth and Planetary Science Letters, 236&lt;/em&gt;, 524–541, 2005.&lt;/p&gt;
+&lt;p&gt;Stixrude, L. and C. Lithgow-Bertelloni, Mineralogy and elasticity of the oceanic upper mantle: Origin of the low velocity zone, &lt;em&gt;Journal of Geophysical Research, 110&lt;/em&gt;, B03204, 2005a, doi: 10.1029/2004JB002965.&lt;/p&gt;
+&lt;p&gt;Stixrude, L. and C. Lithgow-Bertelloni, Thermodynamics of mantle minerals: 1. Physical properties, &lt;em&gt;Geophysical Journal International&lt;/em&gt;, &lt;em&gt;162&lt;/em&gt;, 610-632, 2005b, doi: 10.1111/j.1365-246X.2005.02642.x.&lt;/p&gt;
+&lt;p&gt;W. Xu, C. Lithgow-Bertelloni, L. Stixrude and J. Ritsema, The effect of bulk composition on seismic structure, &lt;em&gt;Earth and Planetary Science Letters&lt;/em&gt;, 275, 70-79, 2008, doi:10.1016/j.epsl.2008.08.012.&lt;/p&gt;
+&lt;p&gt;L. Stixrude and C. Lithgow-Bertelloni, Thermodynamics of mantle minerals II: Phase Equilibria*,* *Geophysical Journal International*, 184, 1180-1213, 2011, DOI: 10.1111/j.1365-246X.2010.04890.x&lt;/p&gt;
+&lt;p&gt;L. Stixrude and C. Lithgow-Bertelloni, Geophysics of chemical heterogeneity in the mantle*, Annual Reviews of Earth and Planetary Science*, 40, 565-595, 2012, 10.1146/annurev.earth.36.031207.124244.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-new-hefesto-logo&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/project/hefesto/hefesto_new_hu6eac0da1bb9f5e17647ee88c173ebe14_848239_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;New HeFESTo logo&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/project/hefesto/hefesto_new_hu6eac0da1bb9f5e17647ee88c173ebe14_848239_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1418&#34; height=&#34;1318&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    New HeFESTo logo
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

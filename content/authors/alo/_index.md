@@ -62,4 +62,4 @@ user_groups:
 - Undergrad Students
 ---
 
-Arthur Lo is a 3rd-year undergraduate student majoring in Geophysics. His research focuses on modelling mantle plumes and their dynamics when in proximity.
+Arthur Lo is a 4th-year undergraduate student majoring in Geophysics. His research focuses on modelling mantle plumes and their dynamics when in proximity.

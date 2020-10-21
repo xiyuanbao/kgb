@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "xiyuanbao@g.ucla.edu"
+email = "kgblab@epss.ucla.edu"
 phone = ""
 
 # Address
@@ -100,7 +100,7 @@ address = {street = "595 Charles Young Drive East", city = "Los Angeles", region
 coordinates = {latitude = "34.069222", longitude = "-118.440591"}
 
 # Directions for visitors to locate you.
-directions = "Enter Geology Building thought the east door on Floor 1 and turn right at the first corner to the office 1810 Geology"
+directions = "Enter Geology Building from the east door on Floor 1 and turn right at the first crossing to the office 1810 Geology"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

@@ -1,0 +1,13 @@
+---
+title: "Orphaning Regimes: The Missing Link Between Flattened and Penetrating Slab Morphologies"
+date: 2020-01-01
+publishDate: 2020-10-20T23:49:33.703532Z
+authors: [agrima, "Carolina Lithgow-Bertelloni", fcrameri]
+publication_types: ["2"]
+abstract: "Slab orphaning is a newly discovered phenomenological behavior, where the slab tip breaks off at the top of the lower mantle (~660 km depth) and is abandoned by its parent slab. Upon orphaning, subduction continues uninterrupted through the lateral motion of the parent slab above 660 km depth. In this work, we present a regime diagram for the range of conditions under which slabs can orphan at the top of the lower mantle. Our models show that a viscosity jump at 1,000 km depth not coincident with the endothermic phase change responsible for the 660 km seismic discontinuity, is necessary for orphaning as is the presence of a low viscosity channel between 660 and 1,000 km depth. We show that orphan slabs, similar to other deep slab morphologies, can be the end result for a wide range of physical parameters governing slab dynamics: slab orphaning persists across wide variations in slab dip, slab yield stress/strength, Clapeyron slope values, and overriding plate nature. The diversity in orphan slab sizes and orphaning periods is tied to the orphaning regime space, which describes a hitherto unexplored region between deflected and penetrating deep-subduction modes. Orphaning provides a simple dynamic link between the well-known deflection and penetration, and provides one possible way for slabs to switch from direct penetration to deflection, littering the mantle with abandoned fragments. Orphan slabs are therefore the intermediary between these two extensively studied slab morphologies."
+featured: false
+publication: "*Frontiers in Earth Science*"
+url_pdf: "https://www.frontiersin.org/article/10.3389/feart.2020.00374"
+doi: "10.3389/feart.2020.00374"
+---
+

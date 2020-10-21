@@ -1,0 +1,5305 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Carolina Lithgow-Bertelloni">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Tracking Lagrangian Buoyancy">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://xiyuanbao.github.io/kgb/publication/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/kgb/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+  
+
+  
+  <link rel="alternate" href="/kgb/publication/index.xml" type="application/rss+xml" title="KGB Lab">
+  
+
+  <link rel="manifest" href="/kgb/index.webmanifest">
+  <link rel="icon" type="image/png" href="/kgb/images/icon_hub5f7ad74adc7cdf924b2b2050436ddb7_29119_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/kgb/images/icon_hub5f7ad74adc7cdf924b2b2050436ddb7_29119_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://xiyuanbao.github.io/kgb/publication/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="KGB Lab">
+  <meta property="og:url" content="https://xiyuanbao.github.io/kgb/publication/">
+  <meta property="og:title" content="Publications | KGB Lab">
+  <meta property="og:description" content="Tracking Lagrangian Buoyancy"><meta property="og:image" content="https://xiyuanbao.github.io/kgb/images/logo_hub5f7ad74adc7cdf924b2b2050436ddb7_29119_300x300_fit_lanczos_2.png">
+  <meta property="twitter:image" content="https://xiyuanbao.github.io/kgb/images/logo_hub5f7ad74adc7cdf924b2b2050436ddb7_29119_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
+  
+    <meta property="og:updated_time" content="2020-01-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Publications | KGB Lab</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/kgb/"><img src="/kgb/images/logo_hub5f7ad74adc7cdf924b2b2050436ddb7_29119_0x70_resize_lanczos_2.png" alt="KGB Lab"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/kgb/"><img src="/kgb/images/logo_hub5f7ad74adc7cdf924b2b2050436ddb7_29119_0x70_resize_lanczos_2.png" alt="KGB Lab"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/kgb/#"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/kgb/#about"><span>About</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/kgb/#posts"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/kgb/#people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/kgb/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/kgb/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/kgb/#featured"><span>Outreach</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/kgb/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+<div class="universal-wrapper pt-3">
+  <h1>Publications</h1>
+
+  
+
+  
+</div>
+
+
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+
+      
+
+      
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+
+      <div class="form-row mb-4">
+        <div class="col-auto">
+          <input type="search" class="filter-search" placeholder="Search..." autocapitalize="off"
+          autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
+            <option value="*">Type</option>
+            
+            
+            <option value=".pubtype-2">
+              Journal article
+            </option>
+            
+          </select>
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters form-control form-control-sm" data-filter-group="year">
+            <option value="*">Date</option>
+            
+            
+            
+            <option value=".year-2020">
+              2020
+            </option>
+            
+            <option value=".year-2019">
+              2019
+            </option>
+            
+            <option value=".year-2018">
+              2018
+            </option>
+            
+            <option value=".year-2017">
+              2017
+            </option>
+            
+            <option value=".year-2016">
+              2016
+            </option>
+            
+            <option value=".year-2015">
+              2015
+            </option>
+            
+            <option value=".year-2014">
+              2014
+            </option>
+            
+            <option value=".year-2013">
+              2013
+            </option>
+            
+            <option value=".year-2012">
+              2012
+            </option>
+            
+            <option value=".year-2011">
+              2011
+            </option>
+            
+            <option value=".year-2010">
+              2010
+            </option>
+            
+            <option value=".year-2009">
+              2009
+            </option>
+            
+            <option value=".year-2008">
+              2008
+            </option>
+            
+            <option value=".year-2007">
+              2007
+            </option>
+            
+            <option value=".year-2006">
+              2006
+            </option>
+            
+            <option value=".year-2005">
+              2005
+            </option>
+            
+            <option value=".year-2004">
+              2004
+            </option>
+            
+            <option value=".year-2002">
+              2002
+            </option>
+            
+            <option value=".year-2001">
+              2001
+            </option>
+            
+            <option value=".year-1998">
+              1998
+            </option>
+            
+            <option value=".year-1997">
+              1997
+            </option>
+            
+            <option value=".year-1996">
+              1996
+            </option>
+            
+            <option value=".year-1995">
+              1995
+            </option>
+            
+            <option value=".year-1993">
+              1993
+            </option>
+            
+            
+          </select>
+        </div>
+      </div>
+
+      <div id="container-publications">
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2020">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span ><a href="/kgb/author/kiran-chotalia/">Kiran Chotalia</a></span>, <span ><a href="/kgb/author/neil-cagney/">Neil Cagney</a></span>, <span >Carolina Lithgow-Bertelloni</span>, <span >John Brodholt</span>
+  </span>
+  (2020).
+  <a href="/kgb/publication/chotalia-epsl-530-115881-2020/">The coupled effects of mantle mixing and a water-dependent viscosity on the surface ocean</a>.
+  <em>Earth Planetary Science Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/chotalia-epsl-530-115881-2020/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2020">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span ><a href="/kgb/author/antoniette-grima/">Antoniette Grima</a></span>, <span >Carolina Lithgow-Bertelloni</span>, <span ><a href="/kgb/author/fabio-crameri/">Fabio Crameri</a></span>
+  </span>
+  (2020).
+  <a href="/kgb/publication/grima-feart-2020-00374/">Orphaning Regimes: The Missing Link Between Flattened and Penetrating Slab Morphologies</a>.
+  <em>Frontiers in Earth Science</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.frontiersin.org/article/10.3389/feart.2020.00374" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/grima-feart-2020-00374/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.3389/feart.2020.00374" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2019">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span ><a href="/kgb/author/fabio-crameri/">Fabio Crameri</a></span>, <span >Clinton P. Conrad</span>, <span >Laurent Montesi</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2019).
+  <a href="/kgb/publication/crameri-t-760-107-2019/">The dynamic life of an oceanic plate</a>.
+  <em>Tectonophysics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/crameri-t-760-107-2019/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2019">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Manuele Faccenda</span>, <span >Ana M. G. Ferreira</span>, <span >Nicola Tisato</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Lars Stixrude</span>, <span >Giorgio Pennacchioni</span>
+  </span>
+  (2019).
+  <a href="/kgb/publication/faccenda-jgre-124-1671-2019/">Extrinsic Elastic Anisotropy in a Compositionally Heterogeneous Earth&#39;s Mantle</a>.
+  <em>J. Geophysical Research-solid Earth</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/faccenda-jgre-124-1671-2019/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2018">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Federico M. Davila</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Federico Martina</span>, <span >Pilar Avila</span>, <span >Julieta Nobile</span>, <span >Gilda Collo</span>, <span >Miguel Ezpeleta</span>, <span >Horacio Canelo</span>, <span >Francisco Sanchez</span>
+  </span>
+  (2018).
+  <a href="/kgb/publication/davila-eca-363-2018/">Mantle Influence on Andean and Pre-Andean Topography</a>.
+  <em>Evolution Chilean-argentinean Andes</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/davila-eca-363-2018/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2018">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span ><a href="/kgb/author/fabio-crameri/">Fabio Crameri</a></span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2018).
+  <a href="/kgb/publication/crameri-t-746-199-2018/">Abrupt upper-plate tilting during slab-transition-zone collision</a>.
+  <em>Tectonophysics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/crameri-t-746-199-2018/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2017">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span ><a href="/kgb/author/fabio-crameri/">Fabio Crameri</a></span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Paul J. Tackley</span>
+  </span>
+  (2017).
+  <a href="/kgb/publication/crameri-ggg-18-1661-2017/">The dynamical control of subduction parameters on surface topography</a>.
+  <em>Geochemistry Geophysics Geosystems</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/crameri-ggg-18-1661-2017/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2016">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >John-Michael Kendall</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2016).
+  <a href="/kgb/publication/kendall-mrav-420-11-2016/">Why is Africa rifting?</a>.
+  <em>Magmatic Rifting Active Volcanism</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/kendall-mrav-420-11-2016/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2016">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span ><a href="/kgb/author/neil-cagney/">Neil Cagney</a></span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2016).
+  <a href="/kgb/publication/cagney-gji-205-1574-2016/">Dynamics and excess temperature of a plume throughout its life cycle</a>.
+  <em>Geophysical J. Int.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/cagney-gji-205-1574-2016/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2016">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span ><a href="/kgb/author/neil-cagney/">Neil Cagney</a></span>, <span ><a href="/kgb/author/fabio-crameri/">Fabio Crameri</a></span>, <span >William H. Newsome</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Aline Cotel</span>, <span >Sstanley R. Hart</span>, <span >John A. Whitehead</span>
+  </span>
+  (2016).
+  <a href="/kgb/publication/cagney-epsl-435-55-2016/">Constraining the source of mantle plumes</a>.
+  <em>Earth Planetary Science Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/cagney-epsl-435-55-2016/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2015">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Maxwell L. Rudolph</span>, <span >Vedran Lekic</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2015).
+  <a href="/kgb/publication/rudolph-s-350-1349-2015/">Viscosity jump in Earth&#39;s mid-mantle</a>.
+  <em>Science</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/rudolph-s-350-1349-2015/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2015">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span ><a href="/kgb/author/neil-cagney/">Neil Cagney</a></span>, <span >William H. Newsome</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Aline Cotel</span>, <span >Stanley R. Hart</span>, <span >John A. Whitehead</span>
+  </span>
+  (2015).
+  <a href="/kgb/publication/cagney-ggg-16-579-2015/">Temperature and velocity measurements of a rising thermal plume</a>.
+  <em>Geochemistry Geophysics Geosystems</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/cagney-ggg-16-579-2015/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2015">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Federico M. Davila</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2015).
+  <a href="/kgb/publication/davila-epsl-425-34-2015/">Dynamic uplift during slab flattening</a>.
+  <em>Earth Planetary Science Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/davila-epsl-425-34-2015/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2014">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Santanu Bose</span>, <span >Nibir Mandal</span>, <span >Puspendu Saha</span>, <span >Shamik Sarkar</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2014).
+  <a href="/kgb/publication/bose-jsg-67-37-2014/">Thrust initiation and its control on tectonic wedge geometry: An insight from physical and numerical models</a>.
+  <em>J. Struct. Geology</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/bose-jsg-67-37-2014/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2014">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Federico M. Davila</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2014).
+  <a href="/kgb/publication/davila-jsaes-50-95-2014/">Reply to comment on &#34;dynamic topography in South America&#34; by Hechenleitnera, Fiore lli, Larrovere, Grellet-Tinnera, and Carignano</a>.
+  <em>J. South Am. Earth Sciences</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/davila-jsaes-50-95-2014/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2014">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Caroline M. Eakin</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Federico M. Davila</span>
+  </span>
+  (2014).
+  <a href="/kgb/publication/eakin-epsl-404-250-2014/">Influence of Peruvian flat-subduction dynamics on the evolution of western Amazonia</a>.
+  <em>Earth Planetary Science Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/eakin-epsl-404-250-2014/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2013">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Mark Richards</span>, <span >Eduardo Contreras-Reyes</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >M. ark Ghiorso</span>, <span >Lars Stixrude</span>
+  </span>
+  (2013).
+  <a href="/kgb/publication/richards-ggg-14-604-2013/">Petrological interpretation of deep crustal intrusive bodies beneath oceanic hotspot provinces</a>.
+  <em>Geochemistry Geophysics Geosystems</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/richards-ggg-14-604-2013/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2013">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >John A. Whitehead</span>, <span >Aline Cotel</span>, <span >Stanley Hart</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >William H. Newsome</span>
+  </span>
+  (2013).
+  <a href="/kgb/publication/whitehead-jfm-729-584-2013/">Numerical calculations of two-dimensional large Prandtl number convection in a box</a>.
+  <em>J. Fluid Mechanics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/whitehead-jfm-729-584-2013/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2013">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Federico M. Davila</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2013).
+  <a href="/kgb/publication/davila-jsaes-43-127-2013/">Dynamic topography in South America</a>.
+  <em>J. South Am. Earth Sciences</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/davila-jsaes-43-127-2013/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2012">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Joost van Summeren</span>, <span >Clinton P. Conrad</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2012).
+  <a href="/kgb/publication/van-ggg-13-q-0-ak-03-2012/">The importance of slab pull and a global asthenosphere to plate motions</a>.
+  <em>Geochemistry Geophysics Geosystems</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/van-ggg-13-q-0-ak-03-2012/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2012">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >John B. Naliboff</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Larry J. Ruff</span>, <span >Nico de Koker</span>
+  </span>
+  (2012).
+  <a href="/kgb/publication/naliboff-gji-188-1-2012/">The effects of lithospheric thickness and density structure on Earth&#39;s stress field</a>.
+  <em>Geophysical J. Int.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/naliboff-gji-188-1-2012/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2012">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Lars Stixrude</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2012).
+  <a href="/kgb/publication/stixrude-arepsv-4-40-569-2012/">Geophysics of Chemical Heterogeneity in the Mantle</a>.
+  <em>Ann. Rev. Earth Planetary Sciences, Vol 40</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/stixrude-arepsv-4-40-569-2012/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2012">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Mainak Mookherjee</span>, <span >Bijay B. Karki</span>, <span >Lars Stixrude</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2012).
+  <a href="/kgb/publication/mookherjee-grl-39-l-19306-2012/">Energetics, equation of state, and elasticity of NAL phase: Potential host for alkali and aluminum in the lower mantle</a>.
+  <em>Geophysical Research Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/mookherjee-grl-39-l-19306-2012/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2011">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Lars Stixrude</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2011).
+  <a href="/kgb/publication/stixrude-gji-184-1180-2011/">Thermodynamics of mantle minerals - II. Phase equilibria</a>.
+  <em>Geophysical J. Int.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/stixrude-gji-184-1180-2011/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2010">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Lars Stixrude</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2010).
+  <a href="/kgb/publication/stixrude-tcmimpga-71-465-2010/">Thermodynamics of the Earth&#39;s Mantle</a>.
+  <em>Theoretical Computational Methods In Mineral Physics: Geophysical Applications</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/stixrude-tcmimpga-71-465-2010/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2010">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Federico M. Davila</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Mario Gimenez</span>
+  </span>
+  (2010).
+  <a href="/kgb/publication/davila-epsl-295-187-2010/">Tectonic and dynamic controls on the topography and subsidence of the Argentine Pampas: The role of the flat slab</a>.
+  <em>Earth Planetary Science Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/davila-epsl-295-187-2010/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2009">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Susan L. Bilek</span>, <span >Candy E. Elliott</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2009).
+  <a href="/kgb/publication/bilek-ggg-10-q-04-s-13-2009/">Triggered seismicity associated with the 1990 Nicoya, Costa Rica, M-w=7.0 earthquake</a>.
+  <em>Geochemistry Geophysics Geosystems</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/bilek-ggg-10-q-04-s-13-2009/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2009">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >John B. Naliboff</span>, <span >Clinton P. Conrad</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2009).
+  <a href="/kgb/publication/naliboff-grl-36-l-22307-2009/">Modification of the lithospheric stress field by lateral variations in plate-mantle coupling</a>.
+  <em>Geophysical Research Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/naliboff-grl-36-l-22307-2009/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2009">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Jeroen Ritsema</span>, <span >Paul Cupillard</span>, <span >Benoit Tauzin</span>, <span >Wenbo Xu</span>, <span >Lars Stixrude</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2009).
+  <a href="/kgb/publication/ritsema-g-37-363-2009/">Joint mineral physics and seismic wave traveltime analysis of upper mantle temperature</a>.
+  <em>Geology</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/ritsema-g-37-363-2009/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2009">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Fabio Cammarano</span>, <span >Barbara Romanowicz</span>, <span >Lars Stixrude</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Wenbo Xu</span>
+  </span>
+  (2009).
+  <a href="/kgb/publication/cammarano-gji-179-1169-2009/">Inferring the thermochemical structure of the upper mantle from seismic data</a>.
+  <em>Geophysical J. Int.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/cammarano-gji-179-1169-2009/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2009">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Jeroen Ritsema</span>, <span >Wenbo Xu</span>, <span >Lars Stixrude</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2009).
+  <a href="/kgb/publication/ritsema-epsl-277-244-2009/">Estimates of the transition zone temperature in a mechanically mixed upper mantle</a>.
+  <em>Earth Planetary Science Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/ritsema-epsl-277-244-2009/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2008">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Wenbo Xu</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Lars Stixrude</span>, <span >Jeroen Ritsema</span>
+  </span>
+  (2008).
+  <a href="/kgb/publication/xu-epsl-275-70-2008/">The effect of bulk composition and temperature on mantle seismic structure</a>.
+  <em>Earth Planetary Science Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/xu-epsl-275-70-2008/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2008">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Benjun Wu</span>, <span >Clinton P. Conrad</span>, <span >Arnauld Heuret</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Serge Lallemand</span>
+  </span>
+  (2008).
+  <a href="/kgb/publication/wu-epsl-272-412-2008/">Reconciling strong slab pull and weak plate bending: The plate motion constraint on the strength of mantle slabs</a>.
+  <em>Earth Planetary Science Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/wu-epsl-272-412-2008/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2007">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Sean Loyd</span>, <span >Thorsten W. Beckert</span>, <span >Cliton P. Conrad</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Frank A. Corsetti</span>
+  </span>
+  (2007).
+  <a href="/kgb/publication/loyd-pnasusa-104-14266-2007/">Time variability in Cenozoic reconstructions of mantle heat flow: Plate tectonic cycles and implications for Earth&#39;s thermal evolution</a>.
+  <em>Proc. National Acad. Sciences United States Am.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/loyd-pnasusa-104-14266-2007/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2007">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Lars Stixrude</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Boris Kiefer</span>, <span >Patrizia Fumagalli</span>
+  </span>
+  (2007).
+  <a href="/kgb/publication/stixrude-prb-75-024108-2007/">Phase stability and shear softening in CaSiO3 perovskite at high pressure</a>.
+  <em>Phys. Rev. B</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/stixrude-prb-75-024108-2007/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2007">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Lars Stixrude</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2007).
+  <a href="/kgb/publication/stixrude-epsl-263-45-2007/">Influence of phase transformations on lateral heterogeneity and dynamics in Earth&#39;s mantle</a>.
+  <em>Earth Planetary Science Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/stixrude-epsl-263-45-2007/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2007">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Clinton P. Conrad</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2007).
+  <a href="/kgb/publication/conrad-g-35-29-2007/">Faster seafloor spreading and lithosphere production during the mid-Cenozoic</a>.
+  <em>Geology</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/conrad-g-35-29-2007/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2007">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Anna M. Courtier</span>, <span >Matthew G. Jackson</span>, <span >Jesse F. Lawrence</span>, <span >Zhengrong Wang</span>, <span >Cin-Ty Aeolus Lee</span>, <span >Ralf Halama</span>, <span >Jessica M. Warren</span>, <span >Rhea Workman</span>, <span >Wenbo Xu</span>, <span >Marc M. Hirschmann</span>, <span >Angela M. Larson</span>, <span >Stan R. Hart</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Lars Stixrude</span>, <span >Wang-Ping Chen</span>
+  </span>
+  (2007).
+  <a href="/kgb/publication/courtier-epsl-264-308-2007/">Correlation of seismic and petrologic thermometers suggests deep thermal anomalies beneath hotspots</a>.
+  <em>Earth Planetary Science Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/courtier-epsl-264-308-2007/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2006">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Clinton P. Conrad</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2006).
+  <a href="/kgb/publication/conrad-grl-33-l-05312-2006/">Influence of continental roots and asthenosphere on plate-mantle coupling</a>.
+  <em>Geophysical Research Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/conrad-grl-33-l-05312-2006/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2006">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Yanick Ricard</span>, <span >Frederic Chambat</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2006).
+  <a href="/kgb/publication/ricard-crg-338-992-2006/">Gravity observations and 3D structure of the Earth</a>.
+  <em>Comptes Rendus Geoscience</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/ricard-crg-338-992-2006/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2006">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Xiqiao Xu</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Clinton P. Conrad</span>
+  </span>
+  (2006).
+  <a href="/kgb/publication/xu-epsl-243-552-2006/">Global reconstructions of Cenozoic seafloor ages: Implications for bathymetry and sea level</a>.
+  <em>Earth Planetary Science Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/xu-epsl-243-552-2006/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2005">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Lars Stixrude</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2005).
+  <a href="/kgb/publication/stixrude-gji-162-610-2005/">Thermodynamics of mantle minerals - I. Physical properties</a>.
+  <em>Geophysical J. Int.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/stixrude-gji-162-610-2005/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2005">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Susan L. Bilek</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2005).
+  <a href="/kgb/publication/bilek-epsl-230-97-2005/">Stress changes in the Costa Rica subduction zone due to the 1999 M-w=6.9 Quepos earthquake</a>.
+  <em>Earth Planetary Science Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/bilek-epsl-230-97-2005/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2005">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Susan L. Bilek</span>, <span >Clinton P. Conrad</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2005).
+  <a href="/kgb/publication/bilek-grl-32-l-14305-2005/">Slab pull, slab weakening, and their relation to deep intra-slab seismicity</a>.
+  <em>Geophysical Research Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/bilek-grl-32-l-14305-2005/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2005">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Lars Stixrude</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2005).
+  <a href="/kgb/publication/stixrude-jgre-110-b-03204-2005/">Mineralogy and elasticity of the oceanic upper mantle: Origin of the low-velocity zone</a>.
+  <em>J. Geophysical Research-solid Earth</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/stixrude-jgre-110-b-03204-2005/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2005">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >A. Hope Jahren</span>, <span >Clinton P. Conrad</span>, <span >Nan Crytal Arens</span>, <span >German Mora</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2005).
+  <a href="/kgb/publication/jahren-epsl-236-691-2005/">A plate tectonic mechanism for methane hydrate release along subduction zones</a>.
+  <em>Earth Planetary Science Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/jahren-epsl-236-691-2005/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2004">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Clinton P. Conrad</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2004).
+  <a href="/kgb/publication/conrad-jgre-109-b-10407-2004/">The temporal evolution of plate driving forces: Importance of &#34;slab suction&#34; versus &#34;slab pull&#34; during the Cenozoic</a>.
+  <em>J. Geophysical Research-solid Earth</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/conrad-jgre-109-b-10407-2004/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2004">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Carolina Lithgow-Bertelloni</span>, <span >Jerome H. Guynn</span>
+  </span>
+  (2004).
+  <a href="/kgb/publication/lithgow-bertelloni-jgre-109-b-01408-2004/">Origin of the lithospheric stress field</a>.
+  <em>J. Geophysical Research-solid Earth</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/lithgow-bertelloni-jgre-109-b-01408-2004/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2004">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Clinton P. Conrad</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Keith E. Louden</span>
+  </span>
+  (2004).
+  <a href="/kgb/publication/conrad-g-32-177-2004/">Iceland, the Farallon slab, and dynamic topography of the North Atlantic</a>.
+  <em>Geology</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/conrad-g-32-177-2004/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2004">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Clinton P. Conrad</span>, <span >Susan Bilek</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2004).
+  <a href="/kgb/publication/conrad-epsl-218-109-2004/">Great earthquakes and slab pull: interaction between seismic coupling and plate-slab coupling</a>.
+  <em>Earth Planetary Science Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/conrad-epsl-218-109-2004/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2004">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Margaret M. Streepey</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Ben A. van der Pluijm</span>, <span >Eric J. Essene</span>, <span >Jerry F. Magloughlin</span>
+  </span>
+  (2004).
+  <a href="/kgb/publication/streepey-ptegoina-197-391-2004/">Exhumation of a collisional orogen: A perspective from the North American Grenville Province</a>.
+  <em>Proterozoic Tectonic Evolution Grenville Orogen In North Am.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/streepey-ptegoina-197-391-2004/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2002">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Clinton P. Conrad</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (2002).
+  <a href="/kgb/publication/conrad-s-298-207-2002/">How mantle slabs drive plate tectonics</a>.
+  <em>Science</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/conrad-s-298-207-2002/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2001">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Carolina Lithgow-Bertelloni</span>, <span >Mark A. Richards</span>, <span >Clinton P. Conrad</span>, <span >Ross W. Griffiths</span>
+  </span>
+  (2001).
+  <a href="/kgb/publication/lithgow-bertelloni-jfm-434-1-2001/">Plume generation in natural thermal convection at high Rayleigh and Prandtl numbers</a>.
+  <em>J. Fluid Mechanics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/lithgow-bertelloni-jfm-434-1-2001/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-1998">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Hans-Peter Bunge</span>, <span >Mark A. Richards</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >John R. Baumgardner</span>, <span >Stephen P. Grand</span>, <span >Barbara A. Romanowicz</span>
+  </span>
+  (1998).
+  <a href="/kgb/publication/bunge-s-280-91-1998/">Time scales and heterogeneous structure in geodynamic earth models</a>.
+  <em>Science</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/bunge-s-280-91-1998/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-1998">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Carolina Lithgow-Bertelloni</span>, <span >Mark A. Richards</span>
+  </span>
+  (1998).
+  <a href="/kgb/publication/lithgow-bertelloni-rg-36-27-1998/">The dynamics of Cenozoic and Mesozoic plate motions</a>.
+  <em>Rev. Geophysics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/lithgow-bertelloni-rg-36-27-1998/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-1998">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Carolina Lithgow-Bertelloni</span>, <span >Paul G. Silver</span>
+  </span>
+  (1998).
+  <a href="/kgb/publication/lithgow-bertelloni-n-395-269-1998/">Dynamic topography, plate driving forces and the African superswell</a>.
+  <em>Nature</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/lithgow-bertelloni-n-395-269-1998/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-1998">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Paul G. Silver</span>, <span >Raymond M. Russo</span>, <span >Carolina Lithgow-Bertelloni</span>
+  </span>
+  (1998).
+  <a href="/kgb/publication/silver-s-279-60-1998/">Coupling of South American and African Plate motion and Plate deformation</a>.
+  <em>Science</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/silver-s-279-60-1998/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-1997">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Carolina Lithgow-Bertelloni</span>, <span >Michael Gurnis</span>
+  </span>
+  (1997).
+  <a href="/kgb/publication/lithgowbertelloni-g-25-735-1997/">Cenozoic subsidence and uplift of continents from time-varying dynamic topography</a>.
+  <em>Geology</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/lithgowbertelloni-g-25-735-1997/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-1997">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Mark A. Richards</span>, <span >Yanick Ricard</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Giorgio Spada</span>, <span >Roberto Sabadini</span>
+  </span>
+  (1997).
+  <a href="/kgb/publication/richards-s-275-372-1997/">An explanation for Earth&#39;s long-term rotational stability</a>.
+  <em>Science</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/richards-s-275-372-1997/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-1996">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Mark A. Richards</span>, <span >Carolina LithgowBertelloni</span>
+  </span>
+  (1996).
+  <a href="/kgb/publication/richards-epsl-137-19-1996/">Plate motion changes, the Hawaiian-Emperor bend, and the apparent success and failure of geodynamic models</a>.
+  <em>Earth Planetary Science Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/richards-epsl-137-19-1996/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-1995">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Carolina Lithgow-Bertelloni</span>, <span >Mark A. Richards</span>
+  </span>
+  (1995).
+  <a href="/kgb/publication/lithgowbertelloni-grl-22-1317-1995/">Cenozoic plate driving forces</a>.
+  <em>Geophysical Research Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/lithgowbertelloni-grl-22-1317-1995/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-1993">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Carolina Lithgow-Bertelloni</span>, <span >Mark A. Richards</span>, <span >Yanick Ricard</span>, <span >Richard J. O&#39;connell</span>, <span >Dave C. Engebretson</span>
+  </span>
+  (1993).
+  <a href="/kgb/publication/lithgowbertelloni-grl-20-375-1993/">Toroidal-poloidal partitioning of plate motions since 120 ma</a>.
+  <em>Geophysical Research Lett.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/lithgowbertelloni-grl-20-375-1993/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-1993">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Yanick Ricard</span>, <span >Mark Richards</span>, <span >Carolina Lithgow-Bertelloni</span>, <span >Yves Le Stunff</span>
+  </span>
+  (1993).
+  <a href="/kgb/publication/ricard-jgre-98-21895-1993/">A geodynamic model of mantle density heterogeneity</a>.
+  <em>J. Geophysical Research-solid Earth</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/kgb/publication/ricard-jgre-98-21895-1993/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+      </div>
+
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/kgb/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/kgb/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    KGB Lab © 2020
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KGB Lab</title>
+    <link>https://xiyuanbao.github.io/kgb/</link>
+      <atom:link href="https://xiyuanbao.github.io/kgb/index.xml" rel="self" type="application/rss+xml" />
+    <description>KGB Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>KGB Lab © 2020</copyright><lastBuildDate>Wed, 10 Jun 2020 19:31:57 -0700</lastBuildDate>
+    <image>
+      <url>https://xiyuanbao.github.io/kgb/images/logo_hub5f7ad74adc7cdf924b2b2050436ddb7_29119_300x300_fit_lanczos_2.png</url>
+      <title>KGB Lab</title>
+      <link>https://xiyuanbao.github.io/kgb/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>https://xiyuanbao.github.io/kgb/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>https://xiyuanbao.github.io/kgb/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Xiyuan Bao Passed His First Exam!</title>
+      <link>https://xiyuanbao.github.io/kgb/post/bao_exam/</link>
+      <pubDate>Wed, 10 Jun 2020 19:31:57 -0700</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/post/bao_exam/</guid>
+      <description>&lt;p&gt;Today, 
+&lt;a href=&#34;https://xiyuanbao.github.io/kgb/kgb/author/xiyuan-bao/&#34;&gt;Xiyuan Bao&lt;/a&gt; passed his departmental oral exam on zoom. Congratulations!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jade Won the 2020 Undergraduate Research Award!</title>
+      <link>https://xiyuanbao.github.io/kgb/post/jade_award/</link>
+      <pubDate>Thu, 12 Mar 2020 19:24:37 -0700</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/post/jade_award/</guid>
+      <description>&lt;p&gt;Congratulations to our undergraduate group member 
+&lt;a href=&#34;https://xiyuanbao.github.io/kgb/kgb/author/jade-wight/&#34;&gt;Jade Wight&lt;/a&gt; for winning the &lt;strong&gt;Deane Oberste-Lehn Scholarship&lt;/strong&gt; to conduct her project:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Modeling Mantle Plumes and Their Effect on Dynamic Topography&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;with Prof. Carolina Lithgow-Bertelloni and Jonathan Aurnou, which is now going to start at home!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Tokyo Tech to UCLA</title>
+      <link>https://xiyuanbao.github.io/kgb/post/jtech2020/</link>
+      <pubDate>Tue, 25 Feb 2020 22:11:10 -0700</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/post/jtech2020/</guid>
+      <description>&lt;p&gt;Quote from Prof.Lars Stixrude:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;On Feb. 24 Prof. Kenji Ohta of Tokyo Tech visited the EPSS department with 42 students from Tokyo Tech.  The students included 31 undergraduates and 11 graduates.  Their visit to UCLA was the first leg of a longer trip focusing on field excursions throughout the American southwest.&lt;/p&gt;
+&lt;p&gt;My goal for their visit was to provide the students with a flavor of the cutting-edge science that is carried out in the department, and to introduce them to aspects of our field with which they might be less familiar.  To this end I focused their visit around a tour of departmental laboratories and the Meteorite Gallery, following a brief overview of departmental research activities.  The PI’s (Aurnou, Lithgow-Bertelloni, Young) and their graduate students (Xiyuan Bao, Yufan Xu), kindly prepared and ran stimulating presentations, as did Dr. Nicholas Gessler, a docent with the Meteorite Gallery.  The three sub-groups of students were shepherded on their rounds by tour-guides: Leslie Instixiengmay, Xuesong Ding, Matthew Bogumil, and Boontigan Kuhasubpasin, who also answered questions regarding the science and the department.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As one of the guide, Xuesong took some nice photos of this international visit to the KGB Lab, Xiyuan (unluckily got some cold) was the lucky guy to hold the lab visit after Carolina:&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-xiyuan-was-introducing-mantle-plumes-using-the-poster-from-eyu2019&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/jtech2020/KGB-Lab1_huf32a40580cb5df1c50ecb237ce764879_5591838_2000x2000_fit_q90_lanczos.jpeg&#34; data-caption=&#34;Xiyuan was introducing mantle plumes using the poster from EYU2019&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/jtech2020/KGB-Lab1_huf32a40580cb5df1c50ecb237ce764879_5591838_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3024&#34; height=&#34;4032&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Xiyuan was introducing mantle plumes using the poster from EYU2019
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-visiting-student-was-asking-questions-to-the-devices&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/jtech2020/KGB-Lab2_hu7a2a892f770261d035a8a6029bbf6e8d_5808880_2000x2000_fit_q90_lanczos.jpeg&#34; data-caption=&#34;A visiting student was asking questions to the devices&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/jtech2020/KGB-Lab2_hu7a2a892f770261d035a8a6029bbf6e8d_5808880_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    A visiting student was asking questions to the devices
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-xiyuan-was-introducing-the-stereoscopic-particle-image-velocimetry-spiv-system-&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/jtech2020/KGB-Lab3_hu77e9171c871b61ef7a108088c3fc1d30_6036667_2000x2000_fit_q90_lanczos.jpeg&#34; data-caption=&#34;Xiyuan was introducing the Stereoscopic Particle Image Velocimetry (SPIV) system&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/jtech2020/KGB-Lab3_hu77e9171c871b61ef7a108088c3fc1d30_6036667_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Xiyuan was introducing the Stereoscopic Particle Image Velocimetry (SPIV) system
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Orphaning Regimes: The Missing Link Between Flattened and Penetrating Slab Morphologies</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/grima-feart-2020-00374/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/grima-feart-2020-00374/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The coupled effects of mantle mixing and a water-dependent viscosity on the surface ocean</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/chotalia-epsl-530-115881-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/chotalia-epsl-530-115881-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explore Your Universe 2019</title>
+      <link>https://xiyuanbao.github.io/kgb/post/eyu2019/</link>
+      <pubDate>Mon, 04 Nov 2019 15:17:15 -0700</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/post/eyu2019/</guid>
+      <description>&lt;h1 id=&#34;what-is-eyu&#34;&gt;What is EYU?&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.physicalsciences.ucla.edu/eyu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exploring Your Universe (EYU)&lt;/a&gt; is one of UCLA’s biggest annual events, drawing in thousands of children, parents, and friends from the Los Angeles community to our campus on the first Sunday in November. Organized by 
+&lt;a href=&#34;https://www.exploringyouruniverse.org/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UCLA graduate students&lt;/a&gt; and run by 
+&lt;a href=&#34;https://www.exploringyouruniverse.org/participant-info&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;volunteers&lt;/a&gt;, this science fair has been a tradition to provide a day of free science education to all. For ten years, EYU has provided fun, hands-on experiments and presentations to curious minds and young future scientists alike.&lt;/p&gt;
+&lt;p&gt;EYU 2019 was one of the main events in celebrating UCLA’s Centennial!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://images.squarespace-cdn.com/content/v1/595e755db3db2b6299951605/1572369151044-YU47BK5XWKOIZ6S4DWTE/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USOFn4xF8vTWDNAUBm5ducQhX-V3oVjSmr829Rco4W2Uo49ZdOtO_QXox0_W7i2zEA/EYU_Color_Flyer_Mayim.jpg?format=1000w&#34; alt=&#34;EYU_Color_Flyer_Mayim.jpg&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;eyu--kgb-lab&#34;&gt;EYU &amp;amp; KGB Lab&lt;/h1&gt;
+&lt;p&gt;The KGB Lab held the booth GEN31 &lt;em&gt;Sweet and Cool Lab Blobs&lt;/em&gt; in Geology 3656, and here are some cool photos!&lt;/p&gt;
+&lt;p&gt;Image Credit: Xuesong Ding, Xiyuan Bao&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-banner&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/banner_hud9ac50050e9d73987baf1f5ff3bdc8c0_2089046_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;The Banner&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/banner_hud9ac50050e9d73987baf1f5ff3bdc8c0_2089046_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The Banner
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-poster&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/poster_hu254e340854551659442b8120a2d67e8d_2064326_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;The Poster&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/poster_hu254e340854551659442b8120a2d67e8d_2064326_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3024&#34; height=&#34;4032&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The Poster
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-site-overview&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/overview_hu28265e08846c0e16afbbf079ad5ae041_2331894_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Site Overview&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/overview_hu28265e08846c0e16afbbf079ad5ae041_2331894_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Site Overview
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-shadowgraph&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/shadowgraph_hu119f22a3e3bf05e8554b7714c68d25d7_881500_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Shadowgraph&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/shadowgraph_hu119f22a3e3bf05e8554b7714c68d25d7_881500_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1280&#34; height=&#34;2560&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Shadowgraph
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-carolina-was-introducing-shadowgraph-and-hawaii-volcanism&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/clb0_hua31ba6530520733c708bd24c6c27d8f4_2356666_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Carolina was introducing shadowgraph and Hawaii volcanism&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/clb0_hua31ba6530520733c708bd24c6c27d8f4_2356666_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Carolina was introducing shadowgraph and Hawaii volcanism
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-carolina-was-introducing-shadowgraph-and-hawaii-volcanism&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/clb1_hu7a643f99e10bb4139dafd9e1f732c350_1449904_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Carolina was introducing shadowgraph and Hawaii volcanism&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/clb1_hu7a643f99e10bb4139dafd9e1f732c350_1449904_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Carolina was introducing shadowgraph and Hawaii volcanism
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-carolina-was-introducing-shadowgraph-and-hawaii-volcanism&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/clb2_hu0ccfc76b6880a8ea40afabcbfb789bc9_2145544_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Carolina was introducing shadowgraph and Hawaii volcanism&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/clb2_hu0ccfc76b6880a8ea40afabcbfb789bc9_2145544_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Carolina was introducing shadowgraph and Hawaii volcanism
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-carolina-was-introducing-shadowgraph-and-hawaii-volcanism&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/clb3_hu5cba2483b0d2b356855c268953a6d15b_2042371_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Carolina was introducing shadowgraph and Hawaii volcanism&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/clb3_hu5cba2483b0d2b356855c268953a6d15b_2042371_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Carolina was introducing shadowgraph and Hawaii volcanism
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-dual-plumes&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/dual_huda32ff518655830d346f2331b16ced76_784440_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Dual Plumes&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/dual_huda32ff518655830d346f2331b16ced76_784440_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2560&#34; height=&#34;1280&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Dual Plumes
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-xiyuan-was-introducing-plumes-visualized-by-thermochrmoc-liquid-crystals-tlcs-and-lava-lamp&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/xbao1_hu83bea520543349f3f9e28193727706aa_2814979_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Xiyuan was introducing plumes visualized by Thermochrmoc Liquid Crystals (TLCs) and lava lamp&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/xbao1_hu83bea520543349f3f9e28193727706aa_2814979_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Xiyuan was introducing plumes visualized by Thermochrmoc Liquid Crystals (TLCs) and lava lamp
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-xiyuan-was-introducing-plumes-visualized-by-thermochrmoc-liquid-crystals-tlcs-and-lava-lamp&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/xbao2_hu4cfbfcb63d92d9b598e933e3183ef4cf_2408233_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Xiyuan was introducing plumes visualized by Thermochrmoc Liquid Crystals (TLCs) and lava lamp&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/xbao2_hu4cfbfcb63d92d9b598e933e3183ef4cf_2408233_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Xiyuan was introducing plumes visualized by Thermochrmoc Liquid Crystals (TLCs) and lava lamp
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-xiyuan-was-introducing-plumes-visualized-by-thermochrmoc-liquid-crystals-tlcs-and-lava-lamp&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/xbao3_hu34ba0e1c5db0c5bc72455b9b996a83d8_2705997_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Xiyuan was introducing plumes visualized by Thermochrmoc Liquid Crystals (TLCs) and lava lamp&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/xbao3_hu34ba0e1c5db0c5bc72455b9b996a83d8_2705997_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Xiyuan was introducing plumes visualized by Thermochrmoc Liquid Crystals (TLCs) and lava lamp
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In the afternoon, Matthew took the turn and introduced the shadowgraph and Hawaii:&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/mbog1_hu944fd24f4fb82c927c571e074d7bc5da_2197375_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/mbog1_hu944fd24f4fb82c927c571e074d7bc5da_2197375_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3024&#34; height=&#34;4032&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/mbog2_hu88e479ddcff4322b1f238d75b2935834_2168142_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/mbog2_hu88e479ddcff4322b1f238d75b2935834_2168142_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Group photo of the lovely volunteers!&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/featured_hu39eb3ddd63a8de322625a85a2b680b1a_1047403_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/eyu2019/featured_hu39eb3ddd63a8de322625a85a2b680b1a_1047403_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2560&#34; height=&#34;1440&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;From Left to Right: 
+&lt;a href=&#34;kgb/author/matthew-bogumil/&#34;&gt;Matthew Bogumil&lt;/a&gt;, 
+&lt;a href=&#34;kgb/author/xiyuan-bao/&#34;&gt;Xiyuan Bao&lt;/a&gt;, 
+&lt;a href=&#34;kgb/author/boontigan-kuhasubpasin/&#34;&gt;Boontigan Kuhasubpasin&lt;/a&gt;, 
+&lt;a href=&#34;arthur-lo&#34;&gt;Arthur Lo&lt;/a&gt;, 
+&lt;a href=&#34;https://xiyuanbao.github.io/kgb/kgb/author/xuesong-ding/&#34;&gt;Xuesong Ding&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Successful PhD Defense!</title>
+      <link>https://xiyuanbao.github.io/kgb/post/ak_phd/</link>
+      <pubDate>Fri, 18 Oct 2019 19:02:16 -0700</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/post/ak_phd/</guid>
+      <description>&lt;p&gt;Congratulations to our group member 
+&lt;a href=&#34;https://xiyuanbao.github.io/kgb/kgb/author/antoniette-grima/&#34;&gt;Antoniette Grima&lt;/a&gt; and 
+&lt;a href=&#34;https://xiyuanbao.github.io/kgb/kgb/author/kiran-chotalia/&#34;&gt;Kiran Chotalia&lt;/a&gt; who successfully defended their PhD!&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/post/ak_phd/photo_hu76bfe551d19964cd44a83ed818aee2b7_63771_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/post/ak_phd/photo_hu76bfe551d19964cd44a83ed818aee2b7_63771_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;720&#34; height=&#34;960&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>HeFESTo webinar on CIG</title>
+      <link>https://xiyuanbao.github.io/kgb/talk/hefesto2019/</link>
+      <pubDate>Thu, 09 May 2019 14:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/talk/hefesto2019/</guid>
+      <description>&lt;p&gt;Timezone: PDT&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/44Jams9XKH8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://xiyuanbao.github.io/kgb/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Extrinsic Elastic Anisotropy in a Compositionally Heterogeneous Earth&#39;s Mantle</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/faccenda-jgre-124-1671-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/faccenda-jgre-124-1671-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamic life of an oceanic plate</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/crameri-t-760-107-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/crameri-t-760-107-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018 Francis Birch Lecture</title>
+      <link>https://xiyuanbao.github.io/kgb/talk/birch2018/</link>
+      <pubDate>Wed, 12 Dec 2018 16:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/talk/birch2018/</guid>
+      <description>&lt;p&gt;Timezone: EDT&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Jkv8Ik9QB-Y&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Abrupt upper-plate tilting during slab-transition-zone collision</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/crameri-t-746-199-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/crameri-t-746-199-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mantle Influence on Andean and Pre-Andean Topography</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/davila-eca-363-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/davila-eca-363-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamical control of subduction parameters on surface topography</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/crameri-ggg-18-1661-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/crameri-ggg-18-1661-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HeFESTo</title>
+      <link>https://xiyuanbao.github.io/kgb/project/hefesto/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/project/hefesto/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;: Compute self-consistently the phase equilibria and equilibrium physical properties of sub-solidus mantle assemblages.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;: &lt;a href=&#34;https://github.com/stixrude/HeFESToRepository&#34;&gt;https://github.com/stixrude/HeFESToRepository&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to reference&lt;/strong&gt;: When using HeFESTo, please cite &lt;em&gt;Stixrude &amp;amp; Lithgow-Bertelloni&lt;/em&gt; (2005) or &lt;em&gt;Stixrude &amp;amp; Lithgow-Bertelloni&lt;/em&gt; (2011), depending on the application, and, if separate, the paper specifying the parameter set used. &lt;em&gt;Stixrude &amp;amp; Lithgow-Bertelloni&lt;/em&gt; (2011) specifies the latest published parameter set (251010).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parameter sets and lookup tables&lt;/strong&gt;: Lookup tables for basalt, harzburgite and pyrolite using 251010 can be found on 
+&lt;a href=&#34;https://github.com/stixrude/HeFESToRepository&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;. You will also find the latest published parameter set 270914. If you have questions contact us at 
+&lt;a href=&#34;mailto:lstixrude@epss.ucla.edu&#34;&gt;lstixrude@epss.ucla.edu&lt;/a&gt; or 
+&lt;a href=&#34;mailto:clb@epss.ucla.edu&#34;&gt;clb@epss.ucla.edu&lt;/a&gt; &lt;em&gt;More coming soon!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Motivation&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This code grew out of an interest in the development of mineralogical Earth models and the exploration of the consequences and predictions of such models for other branches of geophysics. We felt that the large and rapidly growing base of knowledge on the nature of mantle phases and assemblages at high pressure had reached a state that construction of mineralogical Earth models seemed justified. Motivating questions include basic hypothesis tests: Are seismological observations of the mantle consistent with e.g. a lherzolitic composition? How do phase transformations and chemical heterogeneity interact in a convecting system? These have been central questions in the geophysics community for some time, and we felt that a general, flexible, self-consistent thermodynamics code would make a significant contribution towards answering them.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Theory and capability&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The theory upon which the code is based has been described and illustrated with applications in previous publications [e.g. &lt;em&gt;Stixrude and Lithgow-Bertelloni&lt;/em&gt;, 2005a, 2005b; &lt;em&gt;Xu et al&lt;/em&gt;., 2008, &lt;em&gt;Stixrude and Lithgow-Bertelloni&lt;/em&gt;, 2011; &lt;em&gt;Stixrude &amp;amp; Lithgow-Bertelloni&lt;/em&gt;, 2012 ].&lt;/p&gt;
+&lt;p&gt;We have developed a thermodynamic formulation of mantle assemblages based on the concepts of fundamental thermodynamic relations and Legendre transforms and generalized to conditions of anisotropic stress and strain. For a given pressure, temperature, and bulk composition, the code computes the equilibrium phase assemblage (amounts and compositions of coexisting phases) the equilibrium physical properties of each phase and the assemblage, including but not limited to the density, heat capacity, enthalpy, thermal expansivity, bulk and shear moduli, and P- and S-wave velocities. The Voigt and Reuss bounds, and the Hill average of the moduli and velocities of the assemblage are computed.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Significance for the geosciences community&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Two primary uses of this code would be: 1) As a component of a fully compressible convection code. The code can compute on an arbitrary pressure-temperature-composition grid, all thermodynamic quantities relevant to a convection calculation, including the density and enthalpy, including fully the influence of phase transformations. A lookup table based on the thermodynamics code would be a natural starting point for exploring the dynamics of realistic mantle mineralogical models. 2) Tests of hypothetical models of mantle composition against seismological observations. The crucial feature of our code that will permit central questions to be addressed more convincingly is the self-consistent treatment of phase equilibria and physical properties. To our knowledge, our code is the only one that accomplishes this along with the appropriate anisotropic generalization that is critical for comparison with seismology.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Benchmarks&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The code has been tested against a code widely used in shallow mantle and crustal applications: PERPLE_X by Connolly et al. (ETH) [e.g. &lt;em&gt;Connolly&lt;/em&gt;, 2005]. In particular, Connolly independently reproduced our published phase diagram of a lherzolitic composition [&lt;em&gt;Stixrude and Lithgow-Bertelloni&lt;/em&gt;, 2005a; &lt;em&gt;Stixrude and Lithgow-Bertelloni&lt;/em&gt;, 2011].&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cleaning up&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The code still needs documentation and optimization work. This is an ongoing effort.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;References&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Connolly J. A. D., Computation of phase equilibria by linear programming: a tool for geodynamic modeling and its application to subduction zone decarbonation, &lt;em&gt;Earth and Planetary Science Letters, 236&lt;/em&gt;, 524–541, 2005.&lt;/p&gt;
+&lt;p&gt;Stixrude, L. and C. Lithgow-Bertelloni, Mineralogy and elasticity of the oceanic upper mantle: Origin of the low velocity zone, &lt;em&gt;Journal of Geophysical Research, 110&lt;/em&gt;, B03204, 2005a, doi: 10.1029/2004JB002965.&lt;/p&gt;
+&lt;p&gt;Stixrude, L. and C. Lithgow-Bertelloni, Thermodynamics of mantle minerals: 1. Physical properties, &lt;em&gt;Geophysical Journal International&lt;/em&gt;, &lt;em&gt;162&lt;/em&gt;, 610-632, 2005b, doi: 10.1111/j.1365-246X.2005.02642.x.&lt;/p&gt;
+&lt;p&gt;W. Xu, C. Lithgow-Bertelloni, L. Stixrude and J. Ritsema, The effect of bulk composition on seismic structure, &lt;em&gt;Earth and Planetary Science Letters&lt;/em&gt;, 275, 70-79, 2008, doi:10.1016/j.epsl.2008.08.012.&lt;/p&gt;
+&lt;p&gt;L. Stixrude and C. Lithgow-Bertelloni, Thermodynamics of mantle minerals II: Phase Equilibria*,* *Geophysical Journal International*, 184, 1180-1213, 2011, DOI: 10.1111/j.1365-246X.2010.04890.x&lt;/p&gt;
+&lt;p&gt;L. Stixrude and C. Lithgow-Bertelloni, Geophysics of chemical heterogeneity in the mantle*, Annual Reviews of Earth and Planetary Science*, 40, 565-595, 2012, 10.1146/annurev.earth.36.031207.124244.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-new-hefesto-logo&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiyuanbao.github.io/kgb/kgb/project/hefesto/hefesto_new_hu6eac0da1bb9f5e17647ee88c173ebe14_848239_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;New HeFESTo logo&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://xiyuanbao.github.io/kgb/kgb/project/hefesto/hefesto_new_hu6eac0da1bb9f5e17647ee88c173ebe14_848239_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1418&#34; height=&#34;1318&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    New HeFESTo logo
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Constraining the source of mantle plumes</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/cagney-epsl-435-55-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/cagney-epsl-435-55-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics and excess temperature of a plume throughout its life cycle</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/cagney-gji-205-1574-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/cagney-gji-205-1574-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why is Africa rifting?</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/kendall-mrav-420-11-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/kendall-mrav-420-11-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic uplift during slab flattening</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/davila-epsl-425-34-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/davila-epsl-425-34-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature and velocity measurements of a rising thermal plume</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/cagney-ggg-16-579-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/cagney-ggg-16-579-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viscosity jump in Earth&#39;s mid-mantle</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/rudolph-s-350-1349-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/rudolph-s-350-1349-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Peruvian flat-subduction dynamics on the evolution of western Amazonia</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/eakin-epsl-404-250-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/eakin-epsl-404-250-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply to comment on &#34;dynamic topography in South America&#34; by Hechenleitnera, Fiore lli, Larrovere, Grellet-Tinnera, and Carignano</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/davila-jsaes-50-95-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/davila-jsaes-50-95-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thrust initiation and its control on tectonic wedge geometry: An insight from physical and numerical models</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/bose-jsg-67-37-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/bose-jsg-67-37-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic topography in South America</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/davila-jsaes-43-127-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/davila-jsaes-43-127-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical calculations of two-dimensional large Prandtl number convection in a box</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/whitehead-jfm-729-584-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/whitehead-jfm-729-584-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petrological interpretation of deep crustal intrusive bodies beneath oceanic hotspot provinces</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/richards-ggg-14-604-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/richards-ggg-14-604-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetics, equation of state, and elasticity of NAL phase: Potential host for alkali and aluminum in the lower mantle</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/mookherjee-grl-39-l-19306-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/mookherjee-grl-39-l-19306-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geophysics of Chemical Heterogeneity in the Mantle</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/stixrude-arepsv-4-40-569-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/stixrude-arepsv-4-40-569-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of lithospheric thickness and density structure on Earth&#39;s stress field</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/naliboff-gji-188-1-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/naliboff-gji-188-1-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The importance of slab pull and a global asthenosphere to plate motions</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/van-ggg-13-q-0-ak-03-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/van-ggg-13-q-0-ak-03-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermodynamics of mantle minerals - II. Phase equilibria</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/stixrude-gji-184-1180-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/stixrude-gji-184-1180-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tectonic and dynamic controls on the topography and subsidence of the Argentine Pampas: The role of the flat slab</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/davila-epsl-295-187-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/davila-epsl-295-187-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermodynamics of the Earth&#39;s Mantle</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/stixrude-tcmimpga-71-465-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/stixrude-tcmimpga-71-465-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimates of the transition zone temperature in a mechanically mixed upper mantle</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/ritsema-epsl-277-244-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/ritsema-epsl-277-244-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring the thermochemical structure of the upper mantle from seismic data</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/cammarano-gji-179-1169-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/cammarano-gji-179-1169-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint mineral physics and seismic wave traveltime analysis of upper mantle temperature</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/ritsema-g-37-363-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/ritsema-g-37-363-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modification of the lithospheric stress field by lateral variations in plate-mantle coupling</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/naliboff-grl-36-l-22307-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/naliboff-grl-36-l-22307-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Triggered seismicity associated with the 1990 Nicoya, Costa Rica, M-w=7.0 earthquake</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/bilek-ggg-10-q-04-s-13-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/bilek-ggg-10-q-04-s-13-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconciling strong slab pull and weak plate bending: The plate motion constraint on the strength of mantle slabs</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/wu-epsl-272-412-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/wu-epsl-272-412-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of bulk composition and temperature on mantle seismic structure</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/xu-epsl-275-70-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/xu-epsl-275-70-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation of seismic and petrologic thermometers suggests deep thermal anomalies beneath hotspots</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/courtier-epsl-264-308-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/courtier-epsl-264-308-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster seafloor spreading and lithosphere production during the mid-Cenozoic</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/conrad-g-35-29-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/conrad-g-35-29-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of phase transformations on lateral heterogeneity and dynamics in Earth&#39;s mantle</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/stixrude-epsl-263-45-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/stixrude-epsl-263-45-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase stability and shear softening in CaSiO3 perovskite at high pressure</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/stixrude-prb-75-024108-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/stixrude-prb-75-024108-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time variability in Cenozoic reconstructions of mantle heat flow: Plate tectonic cycles and implications for Earth&#39;s thermal evolution</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/loyd-pnasusa-104-14266-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/loyd-pnasusa-104-14266-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global reconstructions of Cenozoic seafloor ages: Implications for bathymetry and sea level</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/xu-epsl-243-552-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/xu-epsl-243-552-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravity observations and 3D structure of the Earth</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/ricard-crg-338-992-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/ricard-crg-338-992-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of continental roots and asthenosphere on plate-mantle coupling</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/conrad-grl-33-l-05312-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/conrad-grl-33-l-05312-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A plate tectonic mechanism for methane hydrate release along subduction zones</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/jahren-epsl-236-691-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/jahren-epsl-236-691-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mineralogy and elasticity of the oceanic upper mantle: Origin of the low-velocity zone</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/stixrude-jgre-110-b-03204-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/stixrude-jgre-110-b-03204-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slab pull, slab weakening, and their relation to deep intra-slab seismicity</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/bilek-grl-32-l-14305-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/bilek-grl-32-l-14305-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress changes in the Costa Rica subduction zone due to the 1999 M-w=6.9 Quepos earthquake</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/bilek-epsl-230-97-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/bilek-epsl-230-97-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermodynamics of mantle minerals - I. Physical properties</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/stixrude-gji-162-610-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/stixrude-gji-162-610-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exhumation of a collisional orogen: A perspective from the North American Grenville Province</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/streepey-ptegoina-197-391-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/streepey-ptegoina-197-391-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Great earthquakes and slab pull: interaction between seismic coupling and plate-slab coupling</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/conrad-epsl-218-109-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/conrad-epsl-218-109-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iceland, the Farallon slab, and dynamic topography of the North Atlantic</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/conrad-g-32-177-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/conrad-g-32-177-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Origin of the lithospheric stress field</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/lithgow-bertelloni-jgre-109-b-01408-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/lithgow-bertelloni-jgre-109-b-01408-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The temporal evolution of plate driving forces: Importance of &#34;slab suction&#34; versus &#34;slab pull&#34; during the Cenozoic</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/conrad-jgre-109-b-10407-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/conrad-jgre-109-b-10407-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How mantle slabs drive plate tectonics</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/conrad-s-298-207-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/conrad-s-298-207-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plume generation in natural thermal convection at high Rayleigh and Prandtl numbers</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/lithgow-bertelloni-jfm-434-1-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/lithgow-bertelloni-jfm-434-1-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupling of South American and African Plate motion and Plate deformation</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/silver-s-279-60-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/silver-s-279-60-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic topography, plate driving forces and the African superswell</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/lithgow-bertelloni-n-395-269-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/lithgow-bertelloni-n-395-269-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamics of Cenozoic and Mesozoic plate motions</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/lithgow-bertelloni-rg-36-27-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/lithgow-bertelloni-rg-36-27-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time scales and heterogeneous structure in geodynamic earth models</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/bunge-s-280-91-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/bunge-s-280-91-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An explanation for Earth&#39;s long-term rotational stability</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/richards-s-275-372-1997/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/richards-s-275-372-1997/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cenozoic subsidence and uplift of continents from time-varying dynamic topography</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/lithgowbertelloni-g-25-735-1997/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/lithgowbertelloni-g-25-735-1997/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plate motion changes, the Hawaiian-Emperor bend, and the apparent success and failure of geodynamic models</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/richards-epsl-137-19-1996/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/richards-epsl-137-19-1996/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cenozoic plate driving forces</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/lithgowbertelloni-grl-22-1317-1995/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/lithgowbertelloni-grl-22-1317-1995/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A geodynamic model of mantle density heterogeneity</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/ricard-jgre-98-21895-1993/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/ricard-jgre-98-21895-1993/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toroidal-poloidal partitioning of plate motions since 120 ma</title>
+      <link>https://xiyuanbao.github.io/kgb/publication/lithgowbertelloni-grl-20-375-1993/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://xiyuanbao.github.io/kgb/publication/lithgowbertelloni-grl-20-375-1993/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

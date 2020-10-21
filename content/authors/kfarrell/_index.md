@@ -14,10 +14,8 @@ role: Former Postdoc<br> Assistant Professor at University of Kentucky
 
 # Organizations/Affiliations
 organizations:
-- name: Centre for Earth Evolution and Dynamics (CEED)
-  url: "https://www.mn.uio.no/ceed/english/"
-- name: University of Oslo
-  url: "https://www.mn.uio.no/geo/english/"
+- name: University of Kentucky
+  url: "https://ees.as.uky.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 

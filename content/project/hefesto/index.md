@@ -35,7 +35,7 @@ links:
 
 **How to reference**: When using HeFESTo, please cite *Stixrude & Lithgow-Bertelloni* (2005) or *Stixrude & Lithgow-Bertelloni* (2011), depending on the application, and, if separate, the paper specifying the parameter set used. *Stixrude & Lithgow-Bertelloni* (2011) specifies the latest published parameter set (251010).
 
-**Parameter sets and lookup tables**: Lookup tables for basalt, harzburgite and pyrolite using 251010 can be obtained by emailing either lstixrude@epss.ucla.edu or clb@epss.ucla.edu. *More coming soon!*
+**Parameter sets and lookup tables**: Lookup tables for basalt, harzburgite and pyrolite using 251010 can be found on [github](https://github.com/stixrude/HeFESToRepository). You will also find the latest published parameter set 270914. If you have questions contact us at [lstixrude@epss.ucla.edu](mailto:lstixrude@epss.ucla.edu) or [clb@epss.ucla.edu](mailto:clb@epss.ucla.edu) *More coming soon!*
 
 *Motivation*
 
@@ -72,3 +72,5 @@ W. Xu, C. Lithgow-Bertelloni, L. Stixrude and J. Ritsema, The effect of bulk com
 L. Stixrude and C. Lithgow-Bertelloni, Thermodynamics of mantle minerals II: Phase Equilibria*,* *Geophysical Journal International*, 184, 1180-1213, 2011, DOI: 10.1111/j.1365-246X.2010.04890.x
 
 L. Stixrude and C. Lithgow-Bertelloni, Geophysics of chemical heterogeneity in the mantle*, Annual Reviews of Earth and Planetary Science*, 40, 565-595, 2012, 10.1146/annurev.earth.36.031207.124244.
+
+{{< figure src="hefesto_new.png" title="New HeFESTo logo" lightbox="true" >}}

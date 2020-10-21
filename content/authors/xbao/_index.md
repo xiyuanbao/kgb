@@ -68,6 +68,6 @@ user_groups:
 - Grad Students
 ---
 
-Xiyuan Bao is a 2nd-year PhD Student. He is interested in understanding the mantle dynamics using mutiple approaches, including lab fluid experiments and numerical simulation, and compare them with surface observations from seismology and geochemistry.
+Xiyuan Bao is a 3rd-year PhD Student. He is interested in understanding the mantle dynamics using mutiple approaches, including lab fluid experiments and numerical simulation, and compare them with surface observations from seismology and geochemistry.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

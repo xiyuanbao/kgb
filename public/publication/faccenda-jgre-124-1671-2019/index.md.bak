@@ -1,0 +1,11 @@
+---
+title: "Extrinsic Elastic Anisotropy in a Compositionally Heterogeneous Earth's Mantle"
+date: 2019-01-01
+publishDate: 2020-07-16T00:16:51.999103Z
+authors: ["Manuele Faccenda", "Ana M. G. Ferreira", "Nicola Tisato", "Carolina Lithgow-Bertelloni", "Lars Stixrude", "Giorgio Pennacchioni"]
+publication_types: ["2"]
+abstract: "Several theoretical studies indicate that a substantial fraction of the measured seismic anisotropy could be interpreted as extrinsic anisotropy associated with compositional layering in rocks, reducing the significance of strain-induced intrinsic anisotropy. Here we quantify the potential contribution of grain-scale and rock-scale compositional anisotropy to the observations by (i) combining effective medium theories with realistic estimates of mineral isotropic elastic properties and (ii) measuring velocities of synthetic seismic waves propagating through modeled strain-induced microstructures. It is shown that for typical mantle and oceanic crust subsolidus compositions, rock-scale compositional layering does not generate any substantial extrinsic anisotropy (<1%) because of the limited contrast in isotropic elastic moduli among different rocks. Quasi-laminated structures observed in subducting slabs using P and S wave scattering are often invoked as a source of extrinsic anisotropy, but our calculations show that they only generate minor seismic anisotropy (<0.1-0.2% of Vp and Vs radial anisotropy). More generally, rock-scale compositional layering, when present, cannot be detected with seismic anisotropy studies but mainly with wave scattering. In contrast, when grain-scale layering is present, significant extrinsic anisotropy could exist in vertically limited levels of the mantle such as in a mid-ocean ridge basalt-rich lower transition zone or in the uppermost lower mantle where foliated basalts and pyrolites display up to 2-3% Vp and 3-6% Vs radial anisotropy. Thus, seismic anisotropy observed around the 660-km discontinuity could be possibly related to grain-scale shape-preferred orientation. Extrinsic anisotropy can form also in a compositionally homogeneous mantle, where velocity variations associated with major phase transitions can generate up to 1% of positive radial anisotropy."
+featured: false
+publication: "*J. Geophysical Research-solid Earth*"
+---
+
